@@ -1,0 +1,44 @@
+{
+  "candidate": {
+    "name": "Anuj Acharjee",
+    "education": "B.Tech in Computer Science and Engineering, Narula Institute of Technology (Expected May 2027)",
+    "current_status": "Student looking for Winter 2026/2027 internships, Big Tech & Startup SDE/Web/GenAI internships, and 2027 full-time roles",
+    "target_roles": [
+      "Winter Intern (2026/2027)",
+      "SDE Intern (Software Development Engineer)",
+      "Software Engineering Intern",
+      "6-Month Software Engineer Intern",
+      "MERN Stack Developer Intern",
+      "Full Stack Developer Intern",
+      "Frontend Developer Intern (React / Next.js)",
+      "Backend Developer Intern (Node.js / TypeScript / Distributed Systems)",
+      "Generative AI / LLM / AI Engineer Intern"
+    ],
+    "priority_companies": [
+      "Google", "Microsoft", "Amazon", "Meta", "Apple", "Adobe", "Salesforce",
+      "Atlassian", "Uber", "Oracle", "Cisco", "Goldman Sachs", "JP Morgan",
+      "Morgan Stanley", "DE Shaw", "Intuit", "Flipkart", "Swiggy", "Zomato",
+      "Razorpay", "CRED", "PhonePe", "Stripe", "Databricks", "Snowflake"
+    ],
+    "skills": {
+      "languages": ["TypeScript", "JavaScript", "C/C++", "Python"],
+      "frontend": ["React.js", "Next.js", "Tailwind CSS", "HTML5", "CSS3"],
+      "backend": ["Node.js", "Express.js", "REST APIs", "WebSockets", "gRPC"],
+      "databases_caching": ["MongoDB", "PostgreSQL", "Redis", "Prisma ORM"],
+      "tools_devops": ["Docker", "Git", "GitHub", "GitHub Actions", "Turborepo", "Kafka", "Postman", "CI/CD"],
+      "concepts": ["Data Structures & Algorithms", "Distributed Systems", "Microservices", "System Design", "OAuth 2.0 / OIDC", "Multithreading", "LLM APIs", "RAG"]
+    },
+    "preferences": {
+      "job_types": ["internship", "winter internship", "summer internship", "full-time"],
+      "experience_level": ["intern", "entry-level", "fresher", "junior", "0-1 years", "student"],
+      "locations": ["Remote", "India", "Kolkata", "Bengaluru", "Bangalore", "Hyderabad", "Pune", "Delhi NCR", "Gurgaon", "Noida", "Mumbai"],
+      "open_to_remote": true
+    },
+    "disqualifiers": [
+      "Requires 3+ years of professional experience",
+      "Senior, Lead, Staff, Principal, Architect, Director, Manager roles",
+      "Non-engineering roles (Sales, Telecaller, Digital Marketing, HR, BPO)",
+      "Unpaid internships without clear learning or stipend"
+    ]
+  }
+}

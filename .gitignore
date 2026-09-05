@@ -1,0 +1,14 @@
+# Environment variables and sensitive secrets
+.env
+
+# Python build & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+
+# Operating system files
+.DS_Store
+Thumbs.db
