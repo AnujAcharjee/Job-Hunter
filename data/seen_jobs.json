@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-06T07:38:54.164527+00:00",
+  "last_updated": "2026-09-06T13:44:05.765564+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -43,6 +43,12 @@
       "company": "Odaseva",
       "url": "https://www.arbeitnow.fr/jobs/companies/odaseva/front-end-developer-junior-paris-419754",
       "seen_at": "2026-09-06T07:38:54.164527+00:00"
+    },
+    "1cb5d7205c4266019bc0": {
+      "title": "Software Engineer - AI Platform (Frontend)",
+      "company": "DiliTrust",
+      "url": "https://www.arbeitnow.fr/jobs/companies/dilitrust/software-engineer-ai-platform-frontend-paris-la-defense-30686",
+      "seen_at": "2026-09-06T13:44:05.765564+00:00"
     }
   }
 }
