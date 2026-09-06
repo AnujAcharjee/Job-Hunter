@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-05T19:58:28.798777+00:00",
+  "last_updated": "2026-09-06T07:38:54.164527+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -19,6 +19,30 @@
       "company": "RelationalAI",
       "url": "https://jobicy.com/jobs/152574-solution-engineer-3",
       "seen_at": "2026-09-05T19:58:28.798777+00:00"
+    },
+    "b9631a9f56f4188ddddd": {
+      "title": "DevOps Intern",
+      "company": "Alta Ares",
+      "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/devops-intern-paris-223351",
+      "seen_at": "2026-09-06T07:38:54.164479+00:00"
+    },
+    "a8fb4690f3d0bfbed64b": {
+      "title": "AI & Automation Werkstudent:in (m/w/d)",
+      "company": "Startup Insider",
+      "url": "https://www.arbeitnow.com/jobs/companies/startup-insider/ai-automation-werkstudentin-berlin-429880",
+      "seen_at": "2026-09-06T07:38:54.164518+00:00"
+    },
+    "3e6ae47f3ed49bd6f2a9": {
+      "title": "Customs AI Integration & Automation Engineer (France)",
+      "company": "Customs Support Group",
+      "url": "https://www.arbeitnow.fr/jobs/companies/customs-support-group/remote-customs-ai-integration-automation-engineer-france-lyon-124506",
+      "seen_at": "2026-09-06T07:38:54.164523+00:00"
+    },
+    "fb8ee973fdaee10769b1": {
+      "title": "Front-end Developer Junior",
+      "company": "Odaseva",
+      "url": "https://www.arbeitnow.fr/jobs/companies/odaseva/front-end-developer-junior-paris-419754",
+      "seen_at": "2026-09-06T07:38:54.164527+00:00"
     }
   }
 }
