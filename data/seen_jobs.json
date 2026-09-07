@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-06T13:44:05.765564+00:00",
+  "last_updated": "2026-09-07T15:54:52.568213+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -49,6 +49,30 @@
       "company": "DiliTrust",
       "url": "https://www.arbeitnow.fr/jobs/companies/dilitrust/software-engineer-ai-platform-frontend-paris-la-defense-30686",
       "seen_at": "2026-09-06T13:44:05.765564+00:00"
+    },
+    "c792278bab2a67049779": {
+      "title": "Product Engineer (Full Stack)",
+      "company": "Maze",
+      "url": "https://jobicy.com/jobs/151461-product-engineer-full-stack",
+      "seen_at": "2026-09-07T15:54:52.568163+00:00"
+    },
+    "7d7e95e0ef443c5a13a6": {
+      "title": "AI Developer (m/w/d)",
+      "company": "PartSpace GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/partspace-gmbh/ai-developer-nuremberg-458711",
+      "seen_at": "2026-09-07T15:54:52.568203+00:00"
+    },
+    "7f7c77ab756bd34c14f4": {
+      "title": "Cybersecurity & AI Engineer Automation (F/H)",
+      "company": "Mirakl - Labs",
+      "url": "https://www.arbeitnow.fr/jobs/companies/mirakl-labs/cybersecurity-ai-engineer-automation-f-h-paris-194861",
+      "seen_at": "2026-09-07T15:54:52.568208+00:00"
+    },
+    "f5f6e4d6e0145e26dd82": {
+      "title": "Core Developer - Node",
+      "company": "Parity",
+      "url": "https://www.arbeitnow.fr/jobs/companies/parity/remote-core-developer-node-28104",
+      "seen_at": "2026-09-07T15:54:52.568213+00:00"
     }
   }
 }
