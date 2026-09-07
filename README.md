@@ -93,8 +93,8 @@ An automated cloud pipeline tailored specifically for **Anuj Acharjee** (B.Tech 
 
 ## ⏰ Schedule & Manual Trigger
 - **Automated Schedule**: Runs **twice every day**:
-  - **Morning**: **8:30 AM IST** (`03:00 UTC`)
-  - **Afternoon**: **4:00 PM IST** (`10:30 UTC`)
+  - **Morning**: **~8:18 AM IST** (`02:48 UTC` - off-peak minute to avoid GitHub Actions delays)
+  - **Afternoon**: **~3:48 PM IST** (`10:18 UTC` - off-peak minute to avoid GitHub Actions delays)
 - **Manual Run**: You can trigger a run anytime!
   - Go to the **Actions** tab in your GitHub repository.
   - Click **Daily Job Hunter** on the left.
