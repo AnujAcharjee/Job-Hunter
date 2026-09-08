@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-07T15:54:52.568213+00:00",
+  "last_updated": "2026-09-08T07:27:34.843110+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -73,6 +73,48 @@
       "company": "Parity",
       "url": "https://www.arbeitnow.fr/jobs/companies/parity/remote-core-developer-node-28104",
       "seen_at": "2026-09-07T15:54:52.568213+00:00"
+    },
+    "ebcb244c7eb726d28121": {
+      "title": "Internship Go-to-Market Engineering, AI & Automation (m/f/d)",
+      "company": "Autarcenergy",
+      "url": "https://www.arbeitnow.com/jobs/companies/autarcenergy/internship-go-to-market-engineering-ai-automation-berlin-481074",
+      "seen_at": "2026-09-08T07:27:34.843038+00:00"
+    },
+    "fb33acf701d8f42c7108": {
+      "title": "Product Engineer (Backend/AI) @Briink",
+      "company": "Merantix",
+      "url": "https://www.arbeitnow.com/jobs/companies/merantix/product-engineer-backend-ai-at-briink-berlin-284171",
+      "seen_at": "2026-09-08T07:27:34.843090+00:00"
+    },
+    "6d3e23576495cd4065aa": {
+      "title": "AI Engineer (m/w/d)",
+      "company": "adorsys GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/adorsys-gmbh/ai-engineer-nurnberg-317112",
+      "seen_at": "2026-09-08T07:27:34.843096+00:00"
+    },
+    "a64d7a3aefc616b12552": {
+      "title": "Full Stack Developer",
+      "company": "typeform",
+      "url": "https://www.arbeitnow.com/jobs/companies/typeform/full-stack-developer-98052",
+      "seen_at": "2026-09-08T07:27:34.843101+00:00"
+    },
+    "e05f02468839051bb638": {
+      "title": "Founding AI Engineer @Plato (backed by Hexa)",
+      "company": "Hexa",
+      "url": "https://www.arbeitnow.fr/jobs/companies/hexa/founding-ai-engineer-at-plato-backed-by-hexa-paris-61480",
+      "seen_at": "2026-09-08T07:27:34.843105+00:00"
+    },
+    "d7411eb1d39527d5756e": {
+      "title": "AI Native Product Engineer",
+      "company": "Brevo",
+      "url": "https://www.arbeitnow.fr/jobs/companies/brevo/ai-native-product-engineer-paris-france-332101",
+      "seen_at": "2026-09-08T07:27:34.843107+00:00"
+    },
+    "73c10c6e1333d4031a1e": {
+      "title": "Full Stack Developer - AI Marketplace",
+      "company": "Loftorbital",
+      "url": "https://www.arbeitnow.fr/jobs/companies/loftorbital/full-stack-developer-ai-marketplace-toulouse-occitanie-190872",
+      "seen_at": "2026-09-08T07:27:34.843110+00:00"
     }
   }
 }
