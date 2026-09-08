@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-08T07:27:34.843110+00:00",
+  "last_updated": "2026-09-08T14:38:09.322115+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -115,6 +115,18 @@
       "company": "Loftorbital",
       "url": "https://www.arbeitnow.fr/jobs/companies/loftorbital/full-stack-developer-ai-marketplace-toulouse-occitanie-190872",
       "seen_at": "2026-09-08T07:27:34.843110+00:00"
+    },
+    "c503e9db537f1bf640fc": {
+      "title": "Full Stack Software Developer E-Health (f/m/d/x)",
+      "company": "Doc Cirrus Gmbh",
+      "url": "https://www.arbeitnow.com/jobs/companies/doc-cirrus-gmbh/full-stack-software-developer-e-health-x-berlin-293711",
+      "seen_at": "2026-09-08T14:38:09.322079+00:00"
+    },
+    "d2584210c17b9cf67793": {
+      "title": "Fullstack Engineer",
+      "company": "Comand Ai",
+      "url": "https://www.arbeitnow.fr/jobs/companies/comand-ai/fullstack-engineer-paris-91724",
+      "seen_at": "2026-09-08T14:38:09.322115+00:00"
     }
   }
 }
