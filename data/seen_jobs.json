@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-08T14:38:09.322115+00:00",
+  "last_updated": "2026-09-09T07:36:01.480296+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -127,6 +127,24 @@
       "company": "Comand Ai",
       "url": "https://www.arbeitnow.fr/jobs/companies/comand-ai/fullstack-engineer-paris-91724",
       "seen_at": "2026-09-08T14:38:09.322115+00:00"
+    },
+    "9d754dc8dfeebea82444": {
+      "title": "Applied AI Engineer",
+      "company": "BLP Digital AG",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/blp-digital-ag/applied-ai-engineer-london-172129",
+      "seen_at": "2026-09-09T07:36:01.480251+00:00"
+    },
+    "92a53bd26d54c3060a1b": {
+      "title": "Full Stack Developer",
+      "company": "typeform",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/typeform/full-stack-developer-341825",
+      "seen_at": "2026-09-09T07:36:01.480291+00:00"
+    },
+    "ae6d16847ce266cafe73": {
+      "title": "Trainee Frontend Development (m/w/d)",
+      "company": "Brandung",
+      "url": "https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-451627",
+      "seen_at": "2026-09-09T07:36:01.480296+00:00"
     }
   }
 }
