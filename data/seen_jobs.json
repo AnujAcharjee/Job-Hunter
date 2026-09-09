@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-09T07:36:01.480296+00:00",
+  "last_updated": "2026-09-09T14:39:48.081281+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -145,6 +145,36 @@
       "company": "Brandung",
       "url": "https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-451627",
       "seen_at": "2026-09-09T07:36:01.480296+00:00"
+    },
+    "7eab80f7310ca69ea612": {
+      "title": "Applied AI Engineer, Enterprise",
+      "company": "anthropic",
+      "url": "https://www.arbeitnow.fr/jobs/companies/anthropic/applied-ai-engineer-enterprise-paris-233263",
+      "seen_at": "2026-09-09T14:39:48.081239+00:00"
+    },
+    "213df2033b8b03f24b7f": {
+      "title": "Agentic AI Software Engineer",
+      "company": "Machine Learning Reply",
+      "url": "https://www.arbeitnow.com/jobs/companies/machine-learning-reply/agentic-ai-software-engineer-munich-284357",
+      "seen_at": "2026-09-09T14:39:48.081270+00:00"
+    },
+    "031e000e6ba10b4806d2": {
+      "title": "AI Product Engineer (w/m/d)",
+      "company": "Ole KG",
+      "url": "https://www.arbeitnow.com/jobs/companies/ole-kg/ai-product-engineer-bielefeld-499105",
+      "seen_at": "2026-09-09T14:39:48.081275+00:00"
+    },
+    "138b7a7f221638d19f33": {
+      "title": "Working Student – AI Process & Business Excellence (m/f/d)",
+      "company": "1KOMMA5˚",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/working-student-ai-process-business-excellence-berlin-366265",
+      "seen_at": "2026-09-09T14:39:48.081278+00:00"
+    },
+    "05a921b25f07552de9b8": {
+      "title": "Working Student AI Support & Operations",
+      "company": "Statworx",
+      "url": "https://www.arbeitnow.com/jobs/companies/statworx/working-student-ai-support-operations-frankfurt-am-main-158358",
+      "seen_at": "2026-09-09T14:39:48.081281+00:00"
     }
   }
 }
