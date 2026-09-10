@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-10T07:31:47.857957+00:00",
+  "last_updated": "2026-09-10T14:30:38.840279+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -187,6 +187,24 @@
       "company": "Datadog",
       "url": "https://www.arbeitnow.fr/jobs/companies/datadog/software-engineering-intern-paris-74277",
       "seen_at": "2026-09-10T07:31:47.857957+00:00"
+    },
+    "94264aa08b1b6f9e7a1a": {
+      "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+      "company": "Databricks",
+      "url": "https://jobicy.com/jobs/151935-ai-engineer-fde-forward-deployed-engineer-2",
+      "seen_at": "2026-09-10T14:30:38.840239+00:00"
+    },
+    "be309c185136236edc46": {
+      "title": "AI Engineer (m/w/d) - Implementation & Consulting",
+      "company": "Feldion GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/feldion-gmbh/ai-engineer-implementation-consulting-frankfurt-am-main-268365",
+      "seen_at": "2026-09-10T14:30:38.840274+00:00"
+    },
+    "9a9f91138cdc53d1248c": {
+      "title": "Frontend Software Developer - Webstack (m/w/d)",
+      "company": "Hallo Welt! GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/hallo-welt-gmbh/frontend-software-developer-webstack-regensburg-95321",
+      "seen_at": "2026-09-10T14:30:38.840279+00:00"
     }
   }
 }
