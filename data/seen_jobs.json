@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-09T14:39:48.081281+00:00",
+  "last_updated": "2026-09-10T07:31:47.857957+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -175,6 +175,18 @@
       "company": "Statworx",
       "url": "https://www.arbeitnow.com/jobs/companies/statworx/working-student-ai-support-operations-frankfurt-am-main-158358",
       "seen_at": "2026-09-09T14:39:48.081281+00:00"
+    },
+    "6aef015eee090b9403e2": {
+      "title": "Software Engineer, Backend",
+      "company": "Vercel",
+      "url": "https://jobicy.com/jobs/152938-software-engineer-backend",
+      "seen_at": "2026-09-10T07:31:47.857922+00:00"
+    },
+    "55403081162ed32bd924": {
+      "title": "Software Engineering Intern",
+      "company": "Datadog",
+      "url": "https://www.arbeitnow.fr/jobs/companies/datadog/software-engineering-intern-paris-74277",
+      "seen_at": "2026-09-10T07:31:47.857957+00:00"
     }
   }
 }
