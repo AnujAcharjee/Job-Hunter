@@ -189,10 +189,83 @@ def fetch_duckduckgo_search(query: str, source_label: str = "Web Search", max_re
     return jobs
 
 
+def fetch_linkedin_india(query: str, max_results: int = 10) -> List[Dict[str, Any]]:
+    """Directly fetch fresh job and internship postings from LinkedIn Guest API for India."""
+    jobs = []
+    try:
+        encoded_query = urllib.parse.quote(query)
+        url = f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={encoded_query}&location=India&start=0"
+        resp = requests.get(url, headers=HEADERS, timeout=12)
+        if resp.status_code == 200:
+            cards = re.findall(r'<div class="[^"]*base-search-card[^"]*".*?</div>\s*</li>', resp.text, re.DOTALL)
+            if not cards:
+                cards = re.findall(r'<li[^>]*>(.*?)</li>', resp.text, re.DOTALL)
+
+            for card in cards[:max_results]:
+                u_match = re.search(r'href="(https://[^"]+)"', card)
+                t_match = re.search(r'base-search-card__title[^>]*>\s*([\s\S]*?)\s*</h3>', card)
+                c_match = re.search(r'base-search-card__subtitle[^>]*>[\s\S]*?<a[^>]*>\s*([\s\S]*?)\s*</a>', card)
+                l_match = re.search(r'job-search-card__location[^>]*>\s*([\s\S]*?)\s*</span>', card)
+
+                if t_match and u_match:
+                    title = re.sub(r'<[^>]+>', '', t_match.group(1)).strip()
+                    comp = re.sub(r'<[^>]+>', '', c_match.group(1)).strip() if c_match else "Company"
+                    loc = re.sub(r'<[^>]+>', '', l_match.group(1)).strip() if l_match else "India"
+                    job_url = u_match.group(1).split("?")[0]
+
+                    clean_title = html.unescape(title)
+                    clean_comp = html.unescape(comp)
+                    clean_loc = html.unescape(loc)
+
+                    job_id = JobStorage.generate_job_id(clean_title, clean_comp, job_url)
+                    jobs.append({
+                        "id": job_id,
+                        "title": clean_title,
+                        "company": clean_comp,
+                        "location": clean_loc,
+                        "url": job_url,
+                        "description": f"LinkedIn opportunity in {clean_loc} at {clean_comp} ({clean_title})",
+                        "source": "LinkedIn (India)"
+                    })
+    except Exception as e:
+        print(f"[Fetchers] LinkedIn fetch error ({query}): {e}")
+    return jobs
+
+
 def fetch_all_jobs(storage: JobStorage) -> List[Dict[str, Any]]:
-    """Fetch and aggregate jobs from all sources, discarding already seen ones."""
+    """Fetch and aggregate jobs, prioritizing LinkedIn India and Indian platforms."""
     all_raw_jobs = []
 
+    # 1. PRIORITY: Direct LinkedIn Job Postings in India
+    linkedin_queries = [
+        "mern internship",
+        "full stack developer intern",
+        "backend developer intern",
+        "react node internship",
+        "genai internship",
+        "sde intern winter"
+    ]
+    for q in linkedin_queries:
+        print(f"[Fetchers] Querying LinkedIn India ({q})...")
+        all_raw_jobs.extend(fetch_linkedin_india(q, max_results=10))
+
+    # 2. Targeted search queries for Indian internships & fresher web dev / GenAI roles
+    search_queries = [
+        ('("winter internship" OR "winter intern" OR "6 month intern" OR "2026 intern") ("software" OR "web" OR "SDE" OR "react" OR "node" OR "full stack") India', "Winter Internships (India)"),
+        ('(Google OR Microsoft OR Amazon OR Adobe OR Salesforce OR Atlassian OR Uber OR Oracle OR Cisco OR Intuit) ("intern" OR "internship" OR "SDE intern") India', "Big Tech India"),
+        ('site:internshala.com/internships ("MERN" OR "React" OR "Node" OR "Full Stack" OR "Generative AI")', "Internshala"),
+        ('site:unstop.com/internships ("software development" OR "web development" OR "mern")', "Unstop (India)"),
+        ('site:myworkdayjobs.com ("software intern" OR "SDE intern" OR "engineering intern") India', "Workday India Portals"),
+        ('site:wellfound.com/jobs ("Full Stack" OR "MERN" OR "GenAI" OR "Backend") ("intern" OR "fresher") India', "Wellfound Startups (India)"),
+        ('("Generative AI" OR "LLM") ("intern" OR "internship") India', "GenAI Opportunities (India)")
+    ]
+
+    for q, label in search_queries:
+        print(f"[Fetchers] Querying {label}...")
+        results = fetch_duckduckgo_search(q, source_label=label, max_results=8)
+        all_raw_jobs.extend(results)
+
+    # 3. Global Remote Tech Boards (Supplementary)
     print("[Fetchers] Querying RemoteOK...")
     all_raw_jobs.extend(fetch_remoteok())
 
@@ -201,23 +274,6 @@ def fetch_all_jobs(storage: JobStorage) -> List[Dict[str, Any]]:
 
     print("[Fetchers] Querying Arbeitnow...")
     all_raw_jobs.extend(fetch_arbeitnow())
-
-    # Targeted search queries for Big Tech, Winter Internships, and Web Dev / GenAI roles
-    search_queries = [
-        ('("winter internship" OR "winter intern" OR "6 month intern" OR "2026 intern") ("software" OR "web" OR "SDE" OR "react" OR "node" OR "full stack") India', "Winter Internships"),
-        ('(Google OR Microsoft OR Amazon OR Adobe OR Salesforce OR Atlassian OR Uber OR Oracle OR Cisco OR Intuit) ("intern" OR "internship" OR "SDE intern") (India OR Remote)', "Big Tech Careers"),
-        ('site:myworkdayjobs.com ("software intern" OR "SDE intern" OR "engineering intern") (India OR Remote)', "Workday Big Tech Portals"),
-        ('site:lever.co OR site:greenhouse.io ("software engineer intern" OR "full stack intern" OR "backend intern" OR "GenAI intern")', "Greenhouse/Lever Startups"),
-        ('site:linkedin.com/jobs ("MERN" OR "Next.js" OR "React" OR "Node.js") ("internship" OR "intern") India', "LinkedIn Jobs (India)"),
-        ('site:wellfound.com/jobs ("Full Stack" OR "MERN" OR "GenAI" OR "Backend") ("intern" OR "fresher")', "Wellfound Startups"),
-        ('site:internshala.com/internships ("MERN" OR "React" OR "Node" OR "Full Stack" OR "Generative AI")', "Internshala"),
-        ('("Generative AI" OR "LLM") ("intern" OR "internship") ("Remote" OR "India")', "GenAI Opportunities")
-    ]
-
-    for q, label in search_queries:
-        print(f"[Fetchers] Querying {label}...")
-        results = fetch_duckduckgo_search(q, source_label=label, max_results=8)
-        all_raw_jobs.extend(results)
 
     # Deduplicate against current run and seen storage
     unseen_jobs = []

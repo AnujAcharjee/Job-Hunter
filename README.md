@@ -1,15 +1,15 @@
 # 🚀 Automated Daily Job Hunter (GitHub Actions + Gemini AI + Telegram)
 
-An automated cloud pipeline tailored specifically for **Anuj Acharjee** (B.Tech CSE, 2027 batch). Twice a day (8:30 AM & 4:00 PM IST), it searches tech platforms for **Big Tech & Startup Winter Internships, SDE Intern, MERN Stack, Full-Stack, and GenAI roles**, uses **Google Gemini AI** to evaluate each opening against your resume, and sends curated cards with direct apply links to your **Telegram**.
+An automated cloud pipeline tailored specifically for **Anuj Acharjee** (B.Tech CSE, 2027 batch). Twice a day (8:30 AM & 4:00 PM IST), it prioritizes and fetches **Indian internships & jobs directly from LinkedIn India, Big Tech careers, Internshala, and Unstop**, uses **Google Gemini AI** to evaluate each opening against your resume (MERN, Next.js, GenAI), and pushes curated cards with 1-click apply links to your **Telegram**.
 
 ---
 
 ## ✨ Key Features
+- **🇮🇳 India & LinkedIn Prioritized**: Directly queries LinkedIn India for fresh MERN, Full-Stack, Backend, SDE, and GenAI internships across Bengaluru, Hyderabad, Pune, Delhi NCR, and remote India.
 - **100% Free & Cloud-Based**: Runs on GitHub Actions in the cloud. Your laptop doesn't need to be on!
-- **Gemini AI Filter**: Evaluates tech stack match, experience requirements, and filters out senior/lead roles or spam.
-- **Direct to Mobile**: Receive attractive cards with 1-click **"🚀 Apply Now"** buttons on your phone via Telegram.
+- **Gemini AI Filter**: Evaluates tech stack match, experience requirements, and filters out senior roles or foreign-restricted spam.
+- **Direct to Mobile**: Receive attractive cards with 1-click **"🚀 Apply on LinkedIn"** buttons on your phone via Telegram.
 - **Zero Duplicate Spam**: Tracks applied/seen jobs in `data/seen_jobs.json` so you never see the same listing twice.
-- **Multi-Source Fetching**: Aggregates from RemoteOK, Jobicy, Arbeitnow, LinkedIn search feeds, and Wellfound.
 
 ---
 

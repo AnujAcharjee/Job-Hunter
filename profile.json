@@ -31,7 +31,9 @@
     "preferences": {
       "job_types": ["internship", "winter internship", "summer internship", "full-time"],
       "experience_level": ["intern", "entry-level", "fresher", "junior", "0-1 years", "student"],
-      "locations": ["Remote", "India", "Kolkata", "Bengaluru", "Bangalore", "Hyderabad", "Pune", "Delhi NCR", "Gurgaon", "Noida", "Mumbai"],
+      "prioritize_india": true,
+      "priority_locations": ["India", "Kolkata", "Bengaluru", "Bangalore", "Hyderabad", "Pune", "Delhi NCR", "Gurgaon", "Noida", "Mumbai", "Chennai"],
+      "locations": ["India", "Kolkata", "Bengaluru", "Bangalore", "Hyderabad", "Pune", "Delhi NCR", "Gurgaon", "Noida", "Mumbai", "Chennai", "Remote (India)"],
       "open_to_remote": true
     },
     "disqualifiers": [

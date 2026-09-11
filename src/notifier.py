@@ -45,28 +45,32 @@ class TelegramNotifier:
         """Format and send an attractive job card to Telegram with direct Apply button."""
         title = html.escape(job.get("title", "Untitled Role"))
         company = html.escape(job.get("company", "Unknown Company"))
-        location = html.escape(job.get("location", "Remote"))
-        source = html.escape(job.get("source", "Web"))
+        location = html.escape(job.get("location", "India"))
+        source = html.escape(job.get("source", "LinkedIn (India)"))
         score = job.get("score", 7)
         summary = html.escape(job.get("match_summary", ""))
         skills = ", ".join(job.get("key_skills", [])) or "MERN / GenAI"
         apply_url = job.get("url", "")
+        is_india = job.get("is_india", False)
 
         score_emoji = "🔥" if score >= 9 else ("✨" if score >= 8 else "⭐")
+        loc_icon = "🇮🇳" if is_india else "📍"
+        india_tag = " [India]" if is_india else ""
 
         card = (
-            f"{score_emoji} <b>New Match ({score}/10)</b>: <b>{title}</b>\n\n"
+            f"{score_emoji} <b>New Match ({score}/10){india_tag}</b>: <b>{title}</b>\n\n"
             f"🏢 <b>Company:</b> {company}\n"
-            f"📍 <b>Location:</b> {location}\n"
-            f"🌐 <b>Source:</b> {source}\n"
+            f"{loc_icon} <b>Location:</b> {location}\n"
+            f"💼 <b>Source:</b> {source}\n"
             f"💡 <b>Skills:</b> <code>{html.escape(skills)}</code>\n\n"
             f"🤖 <b>Gemini Insight:</b>\n<i>{summary}</i>\n\n"
             f"🔗 <a href=\"{apply_url}\"><b>Tap to View & Apply</b></a>"
         )
 
+        button_text = "🚀 Apply on LinkedIn" if "linkedin" in source.lower() else "🚀 Apply Now"
         reply_markup = {
             "inline_keyboard": [
-                [{"text": "🚀 Apply Now", "url": apply_url}]
+                [{"text": button_text, "url": apply_url}]
             ]
         }
 

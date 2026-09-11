@@ -87,6 +87,15 @@ class JobEvaluator:
         is_big_tech = any(re.search(r"\b" + re.escape(comp.lower()) + r"\b", company_and_title) for comp in priority_companies)
         is_winter = any(w in title_lower or w in desc_lower for w in ["winter intern", "winter internship", "6 month intern", "6-month intern", "winter 2026", "winter 2027"])
 
+        # 4. Check for India location priority
+        loc_str = f"{job.get('location', '')} {job.get('source', '')}".lower()
+        indian_cities = ["india", "bengaluru", "bangalore", "kolkata", "hyderabad", "pune", "delhi", "noida", "gurgaon", "gurugram", "mumbai", "chennai"]
+        is_india = any(re.search(r"\b" + re.escape(c) + r"\b", loc_str) for c in indian_cities)
+        job["is_india"] = is_india
+
+        # Foreign-restricted penalty
+        is_foreign_restricted = any(w in loc_str or w in combined for w in ["ph-based only", "philippines", "us only", "usa only", "uk only", "europe only", "germany only", "latin america"])
+
         if not is_tech_title and not matched_skills and not is_big_tech:
             return {
                 "id": job["id"],
@@ -107,11 +116,17 @@ class JobEvaluator:
             score += 2  # Boost for Big Tech / Tier-1
         if is_winter:
             score += 1  # Boost for Winter/Upcoming
+        if is_india:
+            score += 3  # Major priority boost for Indian opportunities!
+        if is_foreign_restricted and not is_india:
+            score -= 4  # Penalize roles not accessible from India
 
-        score = min(score, 10)
-        is_match = score >= 7 and (len(matched_skills) > 0 or is_big_tech)
+        score = max(1, min(score, 10))
+        is_match = score >= 7 and (len(matched_skills) > 0 or is_big_tech or is_india) and not is_foreign_restricted
 
         summary_parts = []
+        if is_india:
+            summary_parts.append("🇮🇳 India Opportunity")
         if is_big_tech:
             summary_parts.append("🏆 Big Tech / Tier-1 Company")
         if is_winter:
@@ -140,6 +155,7 @@ class JobEvaluator:
                 "title": j["title"],
                 "company": j["company"],
                 "location": j.get("location", ""),
+                "source": j.get("source", ""),
                 "description_snippet": j.get("description", "")[:500]
             })
 
@@ -150,10 +166,12 @@ Education: {self.profile.get('education', 'B.Tech CSE, Narula Institute of Techn
 Status: Looking for Winter 2026/2027 internships, Big Tech & startup SDE/Web/GenAI internships, and 2027 graduate/fresher roles.
 Technical Skills: {json.dumps(self.profile.get('skills', {}))}
 Priority Companies: {json.dumps(self.profile.get('priority_companies', []))}
-SPECIAL HIGH PRIORITY:
-1. Winter 2026/2027 internships & 6-month internships (give highest scores 9-10/10).
-2. Big Tech & Tier-1 companies (Google, Microsoft, Amazon, Adobe, Atlassian, Uber, Salesforce, Goldman Sachs, Flipkart, Swiggy, etc.) (give highest scores 9-10/10).
-3. Web Dev (MERN, React, Next.js, Node.js, TypeScript) and Generative AI internships.
+
+CRITICAL LOCATION & SOURCE PRIORITY:
+1. HIGHEST PRIORITY: Jobs and internships located in INDIA (e.g. Kolkata, Bengaluru, Hyderabad, Pune, Delhi NCR, Noida, Gurgaon, Mumbai, Chennai, or India-friendly Remote) and roles sourced from LinkedIn India. Rate these 8-10/10 if matching tech stack.
+2. HIGH PRIORITY: Winter 2026/2027 internships & 6-month internships in India.
+3. HIGH PRIORITY: Big Tech & Tier-1 companies in India.
+4. REJECT / DOWNVOTE: Roles strictly restricted to other countries (e.g. 'US only', 'PH-based only', 'Europe only') where candidate cannot work from India. Rate these 1-3/10 and is_match=false.
 
 Disqualifiers: Exclude jobs requiring 3+ years experience, senior/lead/manager roles, non-tech roles (telecalling, marketing, sales).
 
@@ -162,9 +180,9 @@ Carefully evaluate the following {len(compact_jobs)} job listings:
 
 For EACH job, return:
 - "id": exact job id provided
-- "is_match": boolean (true if role is suitable for an intern/fresher with MERN / TypeScript / Web Dev / GenAI background or Big Tech intern; false if senior, irrelevant, or spam)
-- "score": integer 1 to 10 (10 = dream match like Google/Amazon winter intern or perfect MERN stack role, 1 = completely irrelevant)
-- "match_summary": 1-2 punchy sentences explaining why it fits Anuj's specific profile (mention if it's Big Tech or Winter internship)
+- "is_match": boolean (true if role is suitable for an intern/fresher with MERN / TypeScript / Web Dev / GenAI background in India; false if senior, irrelevant, foreign-restricted, or spam)
+- "score": integer 1 to 10 (10 = dream match like Google/Amazon India winter intern or perfect LinkedIn India MERN role, 1 = completely irrelevant or ineligible)
+- "match_summary": 1-2 punchy sentences explaining why it fits Anuj's profile (mention if it is based in India, Big Tech, or Winter internship)
 - "key_skills": list of matched skills (e.g. ["Next.js", "TypeScript", "Node.js"])
 
 OUTPUT FORMAT: Return ONLY a valid JSON array of objects. Do not include markdown code block formatting or explanation outside JSON.
@@ -240,8 +258,10 @@ OUTPUT FORMAT: Return ONLY a valid JSON array of objects. Do not include markdow
             job["score"] = job_eval.get("score", 0)
             job["match_summary"] = job_eval.get("match_summary", "")
             job["key_skills"] = job_eval.get("key_skills", [])
+            loc_str = f"{job.get('location', '')} {job.get('source', '')}".lower()
+            job["is_india"] = any(c in loc_str for c in ["india", "bengaluru", "bangalore", "kolkata", "hyderabad", "pune", "delhi", "noida", "gurgaon", "mumbai", "chennai"])
             evaluated_results.append(job)
 
-        # Sort by score descending
-        evaluated_results.sort(key=lambda x: x.get("score", 0), reverse=True)
+        # Sort: Indian jobs first, then by score descending
+        evaluated_results.sort(key=lambda x: (1 if x.get("is_india") else 0, x.get("score", 0)), reverse=True)
         return evaluated_results
