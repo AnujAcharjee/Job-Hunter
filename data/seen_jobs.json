@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-11T07:31:36.675795+00:00",
+  "last_updated": "2026-09-11T14:30:08.871166+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -265,6 +265,66 @@
       "company": "Wakacje.pl",
       "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634",
       "seen_at": "2026-09-11T07:31:36.675795+00:00"
+    },
+    "293b0f5c621100051748": {
+      "title": "SDE Intern (Founding Team) | AI x Developer Tools | Remote",
+      "company": "Repowise",
+      "url": "https://in.linkedin.com/jobs/view/sde-intern-founding-team-ai-x-developer-tools-remote-at-repowise-4432624024",
+      "seen_at": "2026-09-11T14:30:08.871102+00:00"
+    },
+    "260b2857d41f0d278fe1": {
+      "title": "MERN stack Developer Intern",
+      "company": "Rapid Acceleration Partners",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-developer-intern-at-rapid-acceleration-partners-4463861464",
+      "seen_at": "2026-09-11T14:30:08.871136+00:00"
+    },
+    "474cf6e44a57d77b2104": {
+      "title": "Full Stack Developer Intern (6-Month Tenure)",
+      "company": "Ira Hospitality",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-intern-6-month-tenure-at-ira-hospitality-4459763391",
+      "seen_at": "2026-09-11T14:30:08.871141+00:00"
+    },
+    "f864b4e6a60fb7dc6a47": {
+      "title": "Fullstack Developer- Internship",
+      "company": "GreedyGame",
+      "url": "https://in.linkedin.com/jobs/view/fullstack-developer-internship-at-greedygame-4462614387",
+      "seen_at": "2026-09-11T14:30:08.871143+00:00"
+    },
+    "b98e26dd71932dd23d15": {
+      "title": "Full Stack Development Internship in Kolkata",
+      "company": "Swastik Steel Works Pvt Ltd",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-development-internship-in-kolkata-at-swastik-steel-works-pvt-ltd-4462716135",
+      "seen_at": "2026-09-11T14:30:08.871146+00:00"
+    },
+    "67877448ce8fe25c0ca7": {
+      "title": "Product Engineer Intern — Voice AI",
+      "company": "Lifie AI",
+      "url": "https://in.linkedin.com/jobs/view/product-engineer-intern-%E2%80%94-voice-ai-at-lifie-ai-4463425998",
+      "seen_at": "2026-09-11T14:30:08.871149+00:00"
+    },
+    "b86ef9040fff68051e4b": {
+      "title": "Full Stack Intern",
+      "company": "Web3task PVT LTD",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-intern-at-web3task-pvt-ltd-4441391735",
+      "seen_at": "2026-09-11T14:30:08.871151+00:00"
+    },
+    "0f18ac35f95b49ff7f50": {
+      "title": "Web Development Internship in Hyderabad (Hybrid)",
+      "company": "SocioSports",
+      "url": "https://in.linkedin.com/jobs/view/web-development-internship-in-hyderabad-hybrid-at-sociosports-4456428403",
+      "seen_at": "2026-09-11T14:30:08.871159+00:00"
+    },
+    "3f782165d42ff965c3ab": {
+      "title": "AI Agent Engineer Intern",
+      "company": "Lexsi Labs",
+      "url": "https://in.linkedin.com/jobs/view/ai-agent-engineer-intern-at-lexsi-labs-4458640948",
+      "seen_at": "2026-09-11T14:30:08.871164+00:00"
+    },
+    "9e9dced3162f084e99e0": {
+      "title": "Agentic AI Intern",
+      "company": "Cleanomatics",
+      "url": "https://in.linkedin.com/jobs/view/agentic-ai-intern-at-cleanomatics-4459283411",
+      "seen_at": "2026-09-11T14:30:08.871166+00:00"
     }
   }
 }
