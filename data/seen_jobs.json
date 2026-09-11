@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-10T14:30:38.840279+00:00",
+  "last_updated": "2026-09-11T07:31:36.675795+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -205,6 +205,66 @@
       "company": "Hallo Welt! GmbH",
       "url": "https://www.arbeitnow.com/jobs/companies/hallo-welt-gmbh/frontend-software-developer-webstack-regensburg-95321",
       "seen_at": "2026-09-10T14:30:38.840279+00:00"
+    },
+    "e344c9bbda1bf0f7551b": {
+      "title": "Junior Fullstack Developer",
+      "company": "ABRIO GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/abrio-gmbh/junior-fullstack-developer-frankfurt-483282",
+      "seen_at": "2026-09-11T07:31:36.675607+00:00"
+    },
+    "5b71dde9a36e9af1cee3": {
+      "title": "DESARROLLADOR FULL STACK",
+      "company": "Kruger NearShore LLC - Rekluti",
+      "url": "https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062",
+      "seen_at": "2026-09-11T07:31:36.675647+00:00"
+    },
+    "c7ca7efb7d1a48dd4846": {
+      "title": "AI Intern",
+      "company": "CertifyOS",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555",
+      "seen_at": "2026-09-11T07:31:36.675651+00:00"
+    },
+    "d8a188544f501b6b2471": {
+      "title": "Blockchain Security Expert Intern - AI Track",
+      "company": "CertiK",
+      "url": "https://jobicy.com/jobs/152979-blockchain-security-expert-intern-ai-track",
+      "seen_at": "2026-09-11T07:31:36.675654+00:00"
+    },
+    "0780fe7e46bcf627acb9": {
+      "title": "Frontend Engineer",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/frontend-engineer-london-303387",
+      "seen_at": "2026-09-11T07:31:36.675657+00:00"
+    },
+    "d888d71b81043d25bfd0": {
+      "title": "Junior .NET Engineer",
+      "company": "Trainline",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/trainline/junior-net-engineer-london-286757",
+      "seen_at": "2026-09-11T07:31:36.675659+00:00"
+    },
+    "f390919d5faa097f49cb": {
+      "title": "Java Developer",
+      "company": "Clera",
+      "url": "https://remoteOK.com/remote-jobs/remote-java-developer-clera-1136188",
+      "seen_at": "2026-09-11T07:31:36.675661+00:00"
+    },
+    "8df7e76fe7c77502e6bf": {
+      "title": "Junior Data Analyst",
+      "company": "HiredBuddy",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-data-analyst-hiredbuddy-1135673",
+      "seen_at": "2026-09-11T07:31:36.675670+00:00"
+    },
+    "849d33218ba5b22c766e": {
+      "title": "Operations Engineer II",
+      "company": "AWeber",
+      "url": "https://remoteOK.com/remote-jobs/remote-operations-engineer-ii-aweber-1136778",
+      "seen_at": "2026-09-11T07:31:36.675673+00:00"
+    },
+    "b00d7b9247d5679cb30a": {
+      "title": "Software Engineer GO",
+      "company": "Wakacje.pl",
+      "url": "https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634",
+      "seen_at": "2026-09-11T07:31:36.675795+00:00"
     }
   }
 }
