@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-11T14:30:08.871166+00:00",
+  "last_updated": "2026-09-12T07:22:45.672963+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -325,6 +325,66 @@
       "company": "Cleanomatics",
       "url": "https://in.linkedin.com/jobs/view/agentic-ai-intern-at-cleanomatics-4459283411",
       "seen_at": "2026-09-11T14:30:08.871166+00:00"
+    },
+    "0e2bf341e3b7b0e9645f": {
+      "title": "AI/ML Internship | LLM • RAG • Agentic AI | Real Projects | Apply Now",
+      "company": "DigitalXNode",
+      "url": "https://in.linkedin.com/jobs/view/ai-ml-internship-llm-%E2%80%A2-rag-%E2%80%A2-agentic-ai-real-projects-apply-now-at-digitalxnode-4433098144",
+      "seen_at": "2026-09-12T07:22:45.672897+00:00"
+    },
+    "7a5be52f74834d8b5eaa": {
+      "title": "MERN Stack Intern",
+      "company": "Wargstech",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-intern-at-wargstech-4462540031",
+      "seen_at": "2026-09-12T07:22:45.672932+00:00"
+    },
+    "6ea3faab932461080deb": {
+      "title": "MERN Stack Developer Internship in Pune (Hybrid)",
+      "company": "Wargstech",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-developer-internship-in-pune-hybrid-at-wargstech-4459081311",
+      "seen_at": "2026-09-12T07:22:45.672936+00:00"
+    },
+    "272f11a8b79739b7ac98": {
+      "title": "Full Stack Developer Intern | Entry Level | Fresher | React, Node.js, JavaScript, SQL | Remote",
+      "company": "Crossing Infotech",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-intern-entry-level-fresher-react-node-js-javascript-sql-remote-at-crossing-infotech-4465119368",
+      "seen_at": "2026-09-12T07:22:45.672939+00:00"
+    },
+    "9795ccf5a4a71e808cc6": {
+      "title": "Full Stack Intern ( 6 months internship)",
+      "company": "Viionn Labs",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-intern-6-months-internship-at-viionn-labs-4449558400",
+      "seen_at": "2026-09-12T07:22:45.672942+00:00"
+    },
+    "0dea59b67fcd95b78938": {
+      "title": "Engineering Intern",
+      "company": "Interview Kickstart",
+      "url": "https://in.linkedin.com/jobs/view/engineering-intern-at-interview-kickstart-4461302056",
+      "seen_at": "2026-09-12T07:22:45.672945+00:00"
+    },
+    "b20f64aaa4a65112b5b9": {
+      "title": "Backend Developer Intern (Golang / NEST)",
+      "company": "Host360",
+      "url": "https://in.linkedin.com/jobs/view/backend-developer-intern-golang-nest-at-host360-4463979585",
+      "seen_at": "2026-09-12T07:22:45.672948+00:00"
+    },
+    "6cfd3e9cc1022ffb1022": {
+      "title": "Intern - Backend",
+      "company": "Uplabh",
+      "url": "https://in.linkedin.com/jobs/view/intern-backend-at-uplabh-4439046038",
+      "seen_at": "2026-09-12T07:22:45.672956+00:00"
+    },
+    "d26cc437dc4e54bd371e": {
+      "title": "Backend Developer Intern | Entry Level | Fresher | Python, Node.js, SQL, REST APIs | Remote",
+      "company": "Crossing Infotech",
+      "url": "https://in.linkedin.com/jobs/view/backend-developer-intern-entry-level-fresher-python-node-js-sql-rest-apis-remote-at-crossing-infotech-4465122485",
+      "seen_at": "2026-09-12T07:22:45.672960+00:00"
+    },
+    "bd66af78027af3c85fd0": {
+      "title": "Artificial Intelligence (AI) Internship in Delhi",
+      "company": "Unimonks",
+      "url": "https://in.linkedin.com/jobs/view/artificial-intelligence-ai-internship-in-delhi-at-unimonks-4463141892",
+      "seen_at": "2026-09-12T07:22:45.672963+00:00"
     }
   }
 }
