@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-12T07:22:45.672963+00:00",
+  "last_updated": "2026-09-12T13:39:29.500705+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -385,6 +385,66 @@
       "company": "Unimonks",
       "url": "https://in.linkedin.com/jobs/view/artificial-intelligence-ai-internship-in-delhi-at-unimonks-4463141892",
       "seen_at": "2026-09-12T07:22:45.672963+00:00"
+    },
+    "fd29b755ee94d292f943": {
+      "title": "MERN Stack Developer Intern | Entry Level | Fresher | MongoDB, Express.js, React.js, Node.js | Remote",
+      "company": "Crossing Infotech",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-developer-intern-entry-level-fresher-mongodb-express-js-react-js-node-js-remote-at-crossing-infotech-4465409274",
+      "seen_at": "2026-09-12T13:39:29.500629+00:00"
+    },
+    "624af94faa8a53b257fb": {
+      "title": "Artificial Intelligence Intern",
+      "company": "Atlys",
+      "url": "https://in.linkedin.com/jobs/view/artificial-intelligence-intern-at-atlys-4462935634",
+      "seen_at": "2026-09-12T13:39:29.500665+00:00"
+    },
+    "0c3d41261cac82750e3e": {
+      "title": "Software Engineer Intern",
+      "company": "Weekday (YC W21)",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-intern-at-weekday-yc-w21-4453416357",
+      "seen_at": "2026-09-12T13:39:29.500671+00:00"
+    },
+    "689fd33d6f1d76164c20": {
+      "title": "Back End Developer",
+      "company": "Joveo",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-joveo-4463039272",
+      "seen_at": "2026-09-12T13:39:29.500675+00:00"
+    },
+    "3e981ba018bf7d4d2aee": {
+      "title": "Job Description - Full Stack Developer Intern",
+      "company": "Accompany Akki",
+      "url": "https://in.linkedin.com/jobs/view/job-description-full-stack-developer-intern-at-accompany-akki-4462601597",
+      "seen_at": "2026-09-12T13:39:29.500679+00:00"
+    },
+    "0d65d5739aa3ba208fb2": {
+      "title": "Software Engineer",
+      "company": "Joveo",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-joveo-4466462995",
+      "seen_at": "2026-09-12T13:39:29.500682+00:00"
+    },
+    "ea115e290127fd23dbd1": {
+      "title": "MERN Stack Developer Intern",
+      "company": "Kangaroo Agency",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-developer-intern-at-kangaroo-agency-4447898779",
+      "seen_at": "2026-09-12T13:39:29.500685+00:00"
+    },
+    "9c799a02f77c3c1b52e3": {
+      "title": "Full Stack Development Internship in Noida",
+      "company": "WapHire",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-development-internship-in-noida-at-waphire-4454828761",
+      "seen_at": "2026-09-12T13:39:29.500696+00:00"
+    },
+    "8979d2f6667c9cc84649": {
+      "title": "Full Stack Development Internship in Bangalore",
+      "company": "GharPayy",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-development-internship-in-bangalore-at-gharpayy-4463782926",
+      "seen_at": "2026-09-12T13:39:29.500701+00:00"
+    },
+    "e372dd70b0e08e9893ad": {
+      "title": "Full Stack Developer Intern",
+      "company": "Visiomatix Media Pvt. Ltd",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-visiomatix-media-pvt-ltd-4465199745",
+      "seen_at": "2026-09-12T13:39:29.500705+00:00"
     }
   }
 }
