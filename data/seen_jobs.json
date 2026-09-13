@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-13T07:41:28.984071+00:00",
+  "last_updated": "2026-09-13T14:28:18.174207+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -505,6 +505,60 @@
       "company": "internmo",
       "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-internmo-4465456490",
       "seen_at": "2026-09-13T07:41:28.984071+00:00"
+    },
+    "6fec81459321aedbec7f": {
+      "title": "Software Engineer Intern",
+      "company": "EziBizi",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-intern-at-ezibizi-4463894474",
+      "seen_at": "2026-09-13T14:28:18.173679+00:00"
+    },
+    "7f03b38b59361d2d6e16": {
+      "title": "Software Engineering Intern",
+      "company": "Abhi Loans",
+      "url": "https://in.linkedin.com/jobs/view/software-engineering-intern-at-abhi-loans-4461645851",
+      "seen_at": "2026-09-13T14:28:18.173719+00:00"
+    },
+    "6a99ee369d5fdc10f349": {
+      "title": "Product Engineer Intern - Unibox",
+      "company": "Lifie AI",
+      "url": "https://in.linkedin.com/jobs/view/product-engineer-intern-unibox-at-lifie-ai-4463431819",
+      "seen_at": "2026-09-13T14:28:18.174177+00:00"
+    },
+    "a6c244663c83224d6b9f": {
+      "title": "Gen AI",
+      "company": "Lunorsoft technologies private limited",
+      "url": "https://in.linkedin.com/jobs/view/gen-ai-at-lunorsoft-technologies-private-limited-4460238867",
+      "seen_at": "2026-09-13T14:28:18.174183+00:00"
+    },
+    "d48ae8ada84f601ed2a3": {
+      "title": "Prompt Engineering Internship in Kochi",
+      "company": "KeyValue",
+      "url": "https://in.linkedin.com/jobs/view/prompt-engineering-internship-in-kochi-at-keyvalue-4460541849",
+      "seen_at": "2026-09-13T14:28:18.174186+00:00"
+    },
+    "39bbbb4abe40e494e93d": {
+      "title": "Back End Developer",
+      "company": "internmo",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-internmo-4465463643",
+      "seen_at": "2026-09-13T14:28:18.174189+00:00"
+    },
+    "1b16728ecfaac611730a": {
+      "title": "Back End Developer",
+      "company": "Nexal IIT",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4465466654",
+      "seen_at": "2026-09-13T14:28:18.174192+00:00"
+    },
+    "37e4b087f0788a48e81a": {
+      "title": "AI Internship",
+      "company": "Delaplex",
+      "url": "https://in.linkedin.com/jobs/view/ai-internship-at-delaplex-4448982232",
+      "seen_at": "2026-09-13T14:28:18.174203+00:00"
+    },
+    "1dd51ddcb442d3310abd": {
+      "title": "Software Engineer Intern",
+      "company": "Nutrithy Wellness",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-intern-at-nutrithy-wellness-4458459616",
+      "seen_at": "2026-09-13T14:28:18.174207+00:00"
     }
   }
 }
