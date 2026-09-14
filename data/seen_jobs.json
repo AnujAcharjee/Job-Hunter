@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-14T08:08:14.515898+00:00",
+  "last_updated": "2026-09-14T16:24:30.671317+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -601,6 +601,48 @@
       "company": "Nexal IIT",
       "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4465717083",
       "seen_at": "2026-09-14T08:08:14.515898+00:00"
+    },
+    "a3ecbc75eceae2989bfd": {
+      "title": "MERN STACK DEVELOPMENT INTERN",
+      "company": "Webs IT Solution",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-development-intern-at-webs-it-solution-4465212103",
+      "seen_at": "2026-09-14T16:24:30.671266+00:00"
+    },
+    "e98332a1689a7f9ac5cb": {
+      "title": "MERN STACK DEVELOPMENT INTERN",
+      "company": "Unified Mentor Private Limited",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-development-intern-at-unified-mentor-private-limited-4465755789",
+      "seen_at": "2026-09-14T16:24:30.671301+00:00"
+    },
+    "8a130ae2e3f1aa74b4b8": {
+      "title": "Backend Developer Intern (Node.js)",
+      "company": "Morfikos Solutions",
+      "url": "https://in.linkedin.com/jobs/view/backend-developer-intern-node-js-at-morfikos-solutions-4465715514",
+      "seen_at": "2026-09-14T16:24:30.671305+00:00"
+    },
+    "538fde776bff2396e323": {
+      "title": "AI / Software Engineering Intern",
+      "company": "aiqon",
+      "url": "https://in.linkedin.com/jobs/view/ai-software-engineering-intern-at-aiqon-4465216398",
+      "seen_at": "2026-09-14T16:24:30.671309+00:00"
+    },
+    "ca9a9eac45d6be84b601": {
+      "title": "Full Stack Developer Intern – Python, Django",
+      "company": "Venxr",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-intern-%E2%80%93-python-django-at-venxr-4464841635",
+      "seen_at": "2026-09-14T16:24:30.671312+00:00"
+    },
+    "0d18fc8b5d2c71d9d1c4": {
+      "title": "Back End Developer",
+      "company": "internmo",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-internmo-4466102112",
+      "seen_at": "2026-09-14T16:24:30.671314+00:00"
+    },
+    "486c21816e37af6ca3e4": {
+      "title": "Back End Developer",
+      "company": "Nexal IIT",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4466103116",
+      "seen_at": "2026-09-14T16:24:30.671317+00:00"
     }
   }
 }
