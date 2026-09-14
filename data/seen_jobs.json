@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-13T14:28:18.174207+00:00",
+  "last_updated": "2026-09-14T08:08:14.515898+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -559,6 +559,48 @@
       "company": "Nutrithy Wellness",
       "url": "https://in.linkedin.com/jobs/view/software-engineer-intern-at-nutrithy-wellness-4458459616",
       "seen_at": "2026-09-13T14:28:18.174207+00:00"
+    },
+    "8199c7a15404020f5b93": {
+      "title": "MERN Stack Developer Intern",
+      "company": "Katalyst CRO",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-developer-intern-at-katalyst-cro-4467044420",
+      "seen_at": "2026-09-14T08:08:14.515841+00:00"
+    },
+    "9fed0ef6b248b1d1045c": {
+      "title": "Full Stack Development Internship in Bangalore",
+      "company": "Think41",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-development-internship-in-bangalore-at-think41-4463680051",
+      "seen_at": "2026-09-14T08:08:14.515880+00:00"
+    },
+    "dfd1800212c063f28dfd": {
+      "title": "Full Stack Developer Intern (React.js + NestJS)",
+      "company": "AIRTH",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-intern-react-js-%2B-nestjs-at-airth-4465729178",
+      "seen_at": "2026-09-14T08:08:14.515884+00:00"
+    },
+    "3935f98bb0124c381228": {
+      "title": "MERN STACK DEVELOPMENT INTERN",
+      "company": "Unified Mentor Private Limited",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-development-intern-at-unified-mentor-private-limited-4465483828",
+      "seen_at": "2026-09-14T08:08:14.515888+00:00"
+    },
+    "330010a9d24bd78f0bd7": {
+      "title": "Backend Developer Intern | Entry Level | Fresher | Python, Node.js, SQL, APIs | Remote",
+      "company": "MediNex Workforce",
+      "url": "https://in.linkedin.com/jobs/view/backend-developer-intern-entry-level-fresher-python-node-js-sql-apis-remote-at-medinex-workforce-4464109218",
+      "seen_at": "2026-09-14T08:08:14.515892+00:00"
+    },
+    "b2eb6a009b50254027f5": {
+      "title": "Back End Developer",
+      "company": "internmo",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-internmo-4465715045",
+      "seen_at": "2026-09-14T08:08:14.515895+00:00"
+    },
+    "938823a1ba300e272bd6": {
+      "title": "Back End Developer",
+      "company": "Nexal IIT",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4465717083",
+      "seen_at": "2026-09-14T08:08:14.515898+00:00"
     }
   }
 }
