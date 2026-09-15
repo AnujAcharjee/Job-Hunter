@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-14T16:24:30.671317+00:00",
+  "last_updated": "2026-09-15T08:03:17.358330+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -643,6 +643,54 @@
       "company": "Nexal IIT",
       "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4466103116",
       "seen_at": "2026-09-14T16:24:30.671317+00:00"
+    },
+    "d5b92aa88da7b4203fbd": {
+      "title": "MERN Stack Developer Intern | Entry Level | Fresher | MongoDB, Express.js, React.js, Node.js | Remote",
+      "company": "Crossing Infotech",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-developer-intern-entry-level-fresher-mongodb-express-js-react-js-node-js-remote-at-crossing-infotech-4465704396",
+      "seen_at": "2026-09-15T08:03:17.358262+00:00"
+    },
+    "461326ddff842520a6cd": {
+      "title": "MERN STACK DEVELOPMENT INTERN",
+      "company": "Webs IT Solution",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-development-intern-at-webs-it-solution-4466167896",
+      "seen_at": "2026-09-15T08:03:17.358299+00:00"
+    },
+    "9e8c41a144a441887e94": {
+      "title": "MERN STACK DEVELOPMENT INTERN",
+      "company": "Unified Mentor Private Limited",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-development-intern-at-unified-mentor-private-limited-4466164960",
+      "seen_at": "2026-09-15T08:03:17.358304+00:00"
+    },
+    "77ddce351adf1c9eb656": {
+      "title": "Full Stack Development Internship in Cochin",
+      "company": "Vidyalai",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-development-internship-in-cochin-at-vidyalai-4467410588",
+      "seen_at": "2026-09-15T08:03:17.358308+00:00"
+    },
+    "36fee9a8dbb369dfca6a": {
+      "title": "Backend Developer Intern | Entry Level | Fresher | Python, Node.js, SQL, REST APIs | Remote",
+      "company": "Crossing Infotech",
+      "url": "https://in.linkedin.com/jobs/view/backend-developer-intern-entry-level-fresher-python-node-js-sql-rest-apis-remote-at-crossing-infotech-4465487793",
+      "seen_at": "2026-09-15T08:03:17.358312+00:00"
+    },
+    "173250ff6e06cb922dd7": {
+      "title": "Prompt Engineering Internship in Faridabad",
+      "company": "Bauer Bodoni",
+      "url": "https://in.linkedin.com/jobs/view/prompt-engineering-internship-in-faridabad-at-bauer-bodoni-4467411567",
+      "seen_at": "2026-09-15T08:03:17.358316+00:00"
+    },
+    "84cc44d70b27f214d2ec": {
+      "title": "Full-Stack Developer Intern (Unpaid)",
+      "company": "Tatvitek Solutions Pvt Ltd",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-intern-unpaid-at-tatvitek-solutions-pvt-ltd-4467466986",
+      "seen_at": "2026-09-15T08:03:17.358319+00:00"
+    },
+    "6587dd2e5e00005716a3": {
+      "title": "Backend Developer Intern",
+      "company": "Cynbit Technologies",
+      "url": "https://in.linkedin.com/jobs/view/backend-developer-intern-at-cynbit-technologies-4446768075",
+      "seen_at": "2026-09-15T08:03:17.358330+00:00"
     }
   }
 }
