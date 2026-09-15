@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-15T08:03:17.358330+00:00",
+  "last_updated": "2026-09-15T15:06:08.680211+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -691,6 +691,66 @@
       "company": "Cynbit Technologies",
       "url": "https://in.linkedin.com/jobs/view/backend-developer-intern-at-cynbit-technologies-4446768075",
       "seen_at": "2026-09-15T08:03:17.358330+00:00"
+    },
+    "8d964a98563c1ce58da8": {
+      "title": "MERN STACK DEVELOPMENT INTERN",
+      "company": "Webs IT Solution",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-development-intern-at-webs-it-solution-4466514003",
+      "seen_at": "2026-09-15T15:06:08.680140+00:00"
+    },
+    "3204bf0fb069ad0dfd01": {
+      "title": "MERN STACK DEVELOPMENT INTERN",
+      "company": "Unified Mentor Private Limited",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-development-intern-at-unified-mentor-private-limited-4466195839",
+      "seen_at": "2026-09-15T15:06:08.680173+00:00"
+    },
+    "52dd2e3c8a364146eaba": {
+      "title": "Backend Developer Intern",
+      "company": "Onified.ai",
+      "url": "https://in.linkedin.com/jobs/view/backend-developer-intern-at-onified-ai-4466188835",
+      "seen_at": "2026-09-15T15:06:08.680178+00:00"
+    },
+    "e871cb966e8e54b89f5c": {
+      "title": "Java Backend Developer Intern",
+      "company": "SkilloVilla",
+      "url": "https://in.linkedin.com/jobs/view/java-backend-developer-intern-at-skillovilla-4462374081",
+      "seen_at": "2026-09-15T15:06:08.680183+00:00"
+    },
+    "ffa9f5dfc0a171a6ee6e": {
+      "title": "Java Development Internship in Mumbai",
+      "company": "TAXOSMART",
+      "url": "https://in.linkedin.com/jobs/view/java-development-internship-in-mumbai-at-taxosmart-4466431237",
+      "seen_at": "2026-09-15T15:06:08.680187+00:00"
+    },
+    "d13208e1720628c51008": {
+      "title": "Java Spring Boot Intern",
+      "company": "Webknot Technologies",
+      "url": "https://in.linkedin.com/jobs/view/java-spring-boot-intern-at-webknot-technologies-4465525276",
+      "seen_at": "2026-09-15T15:06:08.680190+00:00"
+    },
+    "ccf07f30780a944e3f8b": {
+      "title": "Junior Software Engineer - Internship",
+      "company": "AgResearch Labs",
+      "url": "https://in.linkedin.com/jobs/view/junior-software-engineer-internship-at-agresearch-labs-4467700711",
+      "seen_at": "2026-09-15T15:06:08.680194+00:00"
+    },
+    "9f27cf343d2f3ac73e1b": {
+      "title": "Java Developer Intern | Entry Level | Fresher | Java, SQL, Spring Boot | Remote",
+      "company": "MediNex Workforce",
+      "url": "https://in.linkedin.com/jobs/view/java-developer-intern-entry-level-fresher-java-sql-spring-boot-remote-at-medinex-workforce-4464116302",
+      "seen_at": "2026-09-15T15:06:08.680204+00:00"
+    },
+    "7c915ed2f46097d832bd": {
+      "title": "Java Developer Intern | Entry Level | Fresher | Java, SQL, Spring Boot, Git | Remote",
+      "company": "Crossing Infotech",
+      "url": "https://in.linkedin.com/jobs/view/java-developer-intern-entry-level-fresher-java-sql-spring-boot-git-remote-at-crossing-infotech-4465494722",
+      "seen_at": "2026-09-15T15:06:08.680208+00:00"
+    },
+    "0edaea38a892d02d46ce": {
+      "title": "Python Developer Intern | Entry Level | Fresher | Python, SQL, Git | Remote",
+      "company": "Crossing Infotech",
+      "url": "https://in.linkedin.com/jobs/view/python-developer-intern-entry-level-fresher-python-sql-git-remote-at-crossing-infotech-4465493745",
+      "seen_at": "2026-09-15T15:06:08.680211+00:00"
     }
   }
 }
