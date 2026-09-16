@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-15T15:06:08.680211+00:00",
+  "last_updated": "2026-09-16T07:56:29.693183+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -751,6 +751,66 @@
       "company": "Crossing Infotech",
       "url": "https://in.linkedin.com/jobs/view/python-developer-intern-entry-level-fresher-python-sql-git-remote-at-crossing-infotech-4465493745",
       "seen_at": "2026-09-15T15:06:08.680211+00:00"
+    },
+    "9f6d181f00c55f29d61b": {
+      "title": "Agentic AI Developer Intern",
+      "company": "AlienHouse Networks",
+      "url": "https://in.linkedin.com/jobs/view/agentic-ai-developer-intern-at-alienhouse-networks-4465953618",
+      "seen_at": "2026-09-16T07:56:29.693110+00:00"
+    },
+    "676719b58bfa80306a2e": {
+      "title": "MERN STACK DEVELOPMENT INTERN",
+      "company": "Webs IT Solution",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-development-intern-at-webs-it-solution-4467782587",
+      "seen_at": "2026-09-16T07:56:29.693145+00:00"
+    },
+    "dddd1b9f692f0dbdaf2d": {
+      "title": "MERN STACK DEVELOPMENT INTERN",
+      "company": "Unified Mentor Private Limited",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-development-intern-at-unified-mentor-private-limited-4467777640",
+      "seen_at": "2026-09-16T07:56:29.693150+00:00"
+    },
+    "36e129e1b962ac71b4bc": {
+      "title": "Full Stack Developer Intern",
+      "company": "Jansoft Global",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-jansoft-global-4465579561",
+      "seen_at": "2026-09-16T07:56:29.693154+00:00"
+    },
+    "cf93f02ee846ff781689": {
+      "title": "AI / Software Engineering Intern",
+      "company": "aiqon",
+      "url": "https://in.linkedin.com/jobs/view/ai-software-engineering-intern-at-aiqon-4465580378",
+      "seen_at": "2026-09-16T07:56:29.693157+00:00"
+    },
+    "8a71a18612b282483d03": {
+      "title": "Software Engineer",
+      "company": "crewlia",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-crewlia-4467765462",
+      "seen_at": "2026-09-16T07:56:29.693160+00:00"
+    },
+    "97c4425f34138cd2754e": {
+      "title": "Back End Developer",
+      "company": "Joveo",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-joveo-4465902400",
+      "seen_at": "2026-09-16T07:56:29.693164+00:00"
+    },
+    "aa63ba13b5fb2ecdbc9b": {
+      "title": "Back End Developer",
+      "company": "internmo",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-internmo-4466832306",
+      "seen_at": "2026-09-16T07:56:29.693174+00:00"
+    },
+    "8ba1d91bbc1fc0dd4072": {
+      "title": "Back End Developer",
+      "company": "Nexal IIT",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4466816449",
+      "seen_at": "2026-09-16T07:56:29.693179+00:00"
+    },
+    "48f77f6204303ac859f5": {
+      "title": "Computer Science Engineer Intern | Entry Level | Fresher | Programming, Data Structures, Software Development | Remote",
+      "company": "MediNex Workforce",
+      "url": "https://in.linkedin.com/jobs/view/computer-science-engineer-intern-entry-level-fresher-programming-data-structures-software-development-remote-at-medinex-workforce-4466821486",
+      "seen_at": "2026-09-16T07:56:29.693183+00:00"
     }
   }
 }
