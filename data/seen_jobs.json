@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-16T07:56:29.693183+00:00",
+  "last_updated": "2026-09-16T15:01:35.742382+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -811,6 +811,42 @@
       "company": "MediNex Workforce",
       "url": "https://in.linkedin.com/jobs/view/computer-science-engineer-intern-entry-level-fresher-programming-data-structures-software-development-remote-at-medinex-workforce-4466821486",
       "seen_at": "2026-09-16T07:56:29.693183+00:00"
+    },
+    "fbf10e18d300ac2f6766": {
+      "title": "Backend Developer Intern | Entry Level | Fresher | Python, Node.js, SQL, APIs | Remote",
+      "company": "MediNex Workforce",
+      "url": "https://in.linkedin.com/jobs/view/backend-developer-intern-entry-level-fresher-python-node-js-sql-apis-remote-at-medinex-workforce-4466860245",
+      "seen_at": "2026-09-16T15:01:35.742331+00:00"
+    },
+    "a3d30d9f28764d494897": {
+      "title": "MERN STACK DEVELOPMENT INTERN",
+      "company": "Webs IT Solution",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-development-intern-at-webs-it-solution-4466855912",
+      "seen_at": "2026-09-16T15:01:35.742367+00:00"
+    },
+    "57014e2c7efa987caca6": {
+      "title": "MERN STACK DEVELOPMENT INTERN",
+      "company": "Unified Mentor Private Limited",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-development-intern-at-unified-mentor-private-limited-4466873021",
+      "seen_at": "2026-09-16T15:01:35.742372+00:00"
+    },
+    "9239d0dd5ec757953ba7": {
+      "title": "Back End Developer",
+      "company": "internmo",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-internmo-4466862028",
+      "seen_at": "2026-09-16T15:01:35.742376+00:00"
+    },
+    "cd50c78681098992bc36": {
+      "title": "Back End Developer",
+      "company": "Nexal IIT",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4466840702",
+      "seen_at": "2026-09-16T15:01:35.742379+00:00"
+    },
+    "16e8e1f0b55b3a314e7f": {
+      "title": "Python Developer Internship",
+      "company": "Zapuza",
+      "url": "https://in.linkedin.com/jobs/view/python-developer-internship-at-zapuza-4468227825",
+      "seen_at": "2026-09-16T15:01:35.742382+00:00"
     }
   }
 }
