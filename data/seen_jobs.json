@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-17T08:00:45.274668+00:00",
+  "last_updated": "2026-09-17T15:05:36.074282+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -907,6 +907,54 @@
       "company": "Supabase",
       "url": "https://jobicy.com/jobs/153452-edge-functions-engineer",
       "seen_at": "2026-09-17T08:00:45.274668+00:00"
+    },
+    "f9dec798278fb6272a23": {
+      "title": "MERN Stack Developer Intern | Entry Level | Fresher | MongoDB, Express.js, React.js, Node.js | Remote",
+      "company": "Crossing Infotech",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-developer-intern-entry-level-fresher-mongodb-express-js-react-js-node-js-remote-at-crossing-infotech-4467512045",
+      "seen_at": "2026-09-17T15:05:36.074220+00:00"
+    },
+    "799139ef5d7534b5890b": {
+      "title": "Software Engineer Intern",
+      "company": "Vahan.ai",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-intern-at-vahan-ai-4468619421",
+      "seen_at": "2026-09-17T15:05:36.074258+00:00"
+    },
+    "3735a5fb8622cfd06589": {
+      "title": "Backend Developer Intern | Entry Level | Fresher | Python, Node.js, SQL, REST APIs | Remote",
+      "company": "Crossing Infotech",
+      "url": "https://in.linkedin.com/jobs/view/backend-developer-intern-entry-level-fresher-python-node-js-sql-rest-apis-remote-at-crossing-infotech-4467189671",
+      "seen_at": "2026-09-17T15:05:36.074262+00:00"
+    },
+    "6d36eff05eeffae069f9": {
+      "title": "AI Agent Engineer Intern",
+      "company": "Lexsi Labs",
+      "url": "https://in.linkedin.com/jobs/view/ai-agent-engineer-intern-at-lexsi-labs-4437573631",
+      "seen_at": "2026-09-17T15:05:36.074266+00:00"
+    },
+    "14f446b7fc101c50fb61": {
+      "title": "MERN STACK DEVELOPMENT INTERN",
+      "company": "Webs IT Solution",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-development-intern-at-webs-it-solution-4467533839",
+      "seen_at": "2026-09-17T15:05:36.074269+00:00"
+    },
+    "0985481605b769545dff": {
+      "title": "MERN STACK DEVELOPMENT INTERN",
+      "company": "Unified Mentor Private Limited",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-development-intern-at-unified-mentor-private-limited-4467536963",
+      "seen_at": "2026-09-17T15:05:36.074271+00:00"
+    },
+    "4cf25659894cad060149": {
+      "title": "Back End Developer",
+      "company": "Nexal IIT",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4467546740",
+      "seen_at": "2026-09-17T15:05:36.074274+00:00"
+    },
+    "a9a9fb263c71a0c55df1": {
+      "title": "AI agent engineer",
+      "company": "Sticker Mule",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
+      "seen_at": "2026-09-17T15:05:36.074282+00:00"
     }
   }
 }
