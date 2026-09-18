@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-17T15:05:36.074282+00:00",
+  "last_updated": "2026-09-18T07:38:31.928576+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -955,6 +955,30 @@
       "company": "Sticker Mule",
       "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
       "seen_at": "2026-09-17T15:05:36.074282+00:00"
+    },
+    "8e53932c43d247092d39": {
+      "title": "Backend Developer Intern | Entry Level | Fresher | Python, Node.js, SQL, APIs | Remote",
+      "company": "MediNex Workforce",
+      "url": "https://in.linkedin.com/jobs/view/backend-developer-intern-entry-level-fresher-python-node-js-sql-apis-remote-at-medinex-workforce-4467820996",
+      "seen_at": "2026-09-18T07:38:31.928534+00:00"
+    },
+    "0191f883638627969f4e": {
+      "title": "AI & Full Stack Engineer – Paid Internship",
+      "company": "Unloq®",
+      "url": "https://in.linkedin.com/jobs/view/ai-full-stack-engineer-%E2%80%93-paid-internship-at-unloq%C2%AE-4468696242",
+      "seen_at": "2026-09-18T07:38:31.928568+00:00"
+    },
+    "e0a48605aa4da803a28b": {
+      "title": "Back End Developer",
+      "company": "internmo",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-internmo-4467836590",
+      "seen_at": "2026-09-18T07:38:31.928573+00:00"
+    },
+    "453fa53add5737aa9e65": {
+      "title": "Back End Developer",
+      "company": "Nexal IIT",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4467823860",
+      "seen_at": "2026-09-18T07:38:31.928576+00:00"
     }
   }
 }
