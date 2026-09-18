@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-18T07:38:31.928576+00:00",
+  "last_updated": "2026-09-18T14:33:40.806355+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -979,6 +979,36 @@
       "company": "Nexal IIT",
       "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4467823860",
       "seen_at": "2026-09-18T07:38:31.928576+00:00"
+    },
+    "c0140b2cd877668139c3": {
+      "title": "MERN STACK DEVELOPMENT INTERN",
+      "company": "Webs IT Solution",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-development-intern-at-webs-it-solution-4467849862",
+      "seen_at": "2026-09-18T14:33:40.806309+00:00"
+    },
+    "6239962605d774244560": {
+      "title": "Backend Developer Intern | Entry Level | Fresher | Python, Node.js, SQL, REST APIs | Remote",
+      "company": "Crossing Infotech",
+      "url": "https://in.linkedin.com/jobs/view/backend-developer-intern-entry-level-fresher-python-node-js-sql-rest-apis-remote-at-crossing-infotech-4467863022",
+      "seen_at": "2026-09-18T14:33:40.806345+00:00"
+    },
+    "ec8b8ac6dcb5a1e68350": {
+      "title": "Full Stack Developer Intern | Entry Level | Fresher | React, Node.js, JavaScript, SQL | Remote",
+      "company": "Crossing Infotech",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-intern-entry-level-fresher-react-node-js-javascript-sql-remote-at-crossing-infotech-4467862030",
+      "seen_at": "2026-09-18T14:33:40.806349+00:00"
+    },
+    "d3de4ec65943652c5043": {
+      "title": "Back End Developer",
+      "company": "internmo",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-internmo-4467852803",
+      "seen_at": "2026-09-18T14:33:40.806352+00:00"
+    },
+    "20e41ffc123c64b92390": {
+      "title": "Back End Developer",
+      "company": "Nexal IIT",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4467843943",
+      "seen_at": "2026-09-18T14:33:40.806355+00:00"
     }
   }
 }
