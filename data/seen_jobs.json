@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-18T14:33:40.806355+00:00",
+  "last_updated": "2026-09-19T07:33:45.494635+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -1009,6 +1009,66 @@
       "company": "Nexal IIT",
       "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4467843943",
       "seen_at": "2026-09-18T14:33:40.806355+00:00"
+    },
+    "0be081de584bf232a8e0": {
+      "title": "Fullstack Developer- Internship",
+      "company": "GreedyGame",
+      "url": "https://in.linkedin.com/jobs/view/fullstack-developer-internship-at-greedygame-4468076094",
+      "seen_at": "2026-09-19T07:33:45.494086+00:00"
+    },
+    "3601440e8d5c28d4d710": {
+      "title": "Software Engineering Intern",
+      "company": "Abstrabit Technologies",
+      "url": "https://in.linkedin.com/jobs/view/software-engineering-intern-at-abstrabit-technologies-4469134659",
+      "seen_at": "2026-09-19T07:33:45.494120+00:00"
+    },
+    "aec3d5535077914140dd": {
+      "title": "Full Stack Developer Intern | Entry Level | Fresher | React, Node.js, JavaScript, SQL | Remote",
+      "company": "MediNex Workforce",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-intern-entry-level-fresher-react-node-js-javascript-sql-remote-at-medinex-workforce-4468042998",
+      "seen_at": "2026-09-19T07:33:45.494126+00:00"
+    },
+    "9e338c3c475a2ab9a17d": {
+      "title": "Back End Developer",
+      "company": "internmo",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-internmo-4468081066",
+      "seen_at": "2026-09-19T07:33:45.494605+00:00"
+    },
+    "0f0217b11217d12a0656": {
+      "title": "Back End Developer",
+      "company": "Nexal IIT",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4468080086",
+      "seen_at": "2026-09-19T07:33:45.494612+00:00"
+    },
+    "574c8c152cc541415a0b": {
+      "title": "Computer Science Engineer Intern | Entry Level | Fresher | Programming, Data Structures, Software Development | Remote",
+      "company": "MediNex Workforce",
+      "url": "https://in.linkedin.com/jobs/view/computer-science-engineer-intern-entry-level-fresher-programming-data-structures-software-development-remote-at-medinex-workforce-4468056694",
+      "seen_at": "2026-09-19T07:33:45.494615+00:00"
+    },
+    "f0450a8317214990b8a7": {
+      "title": "Java Backend Developer Intern",
+      "company": "SkilloVilla",
+      "url": "https://in.linkedin.com/jobs/view/java-backend-developer-intern-at-skillovilla-4466913267",
+      "seen_at": "2026-09-19T07:33:45.494618+00:00"
+    },
+    "fdb7248e630dfdcac688": {
+      "title": "Golang developer Internship",
+      "company": "Faveo",
+      "url": "https://in.linkedin.com/jobs/view/golang-developer-internship-at-faveo-4467182622",
+      "seen_at": "2026-09-19T07:33:45.494627+00:00"
+    },
+    "715e0d06fb94ff68b819": {
+      "title": "Golang developer Internship",
+      "company": "Faveo",
+      "url": "https://in.linkedin.com/jobs/view/golang-developer-internship-at-faveo-4467167841",
+      "seen_at": "2026-09-19T07:33:45.494632+00:00"
+    },
+    "93bca7bb1793d54f971e": {
+      "title": "Golang developer Internship",
+      "company": "Faveo",
+      "url": "https://in.linkedin.com/jobs/view/golang-developer-internship-at-faveo-4467179646",
+      "seen_at": "2026-09-19T07:33:45.494635+00:00"
     }
   }
 }
