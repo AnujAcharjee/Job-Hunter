@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-19T07:33:45.494635+00:00",
+  "last_updated": "2026-09-19T13:56:47.885457+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -1069,6 +1069,30 @@
       "company": "Faveo",
       "url": "https://in.linkedin.com/jobs/view/golang-developer-internship-at-faveo-4467179646",
       "seen_at": "2026-09-19T07:33:45.494635+00:00"
+    },
+    "e42d17c0b4bfda9f7a52": {
+      "title": "Full Stack Engineer Intern",
+      "company": "YapNow",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-intern-at-yapnow-4465921714",
+      "seen_at": "2026-09-19T13:56:47.885413+00:00"
+    },
+    "7405f8c3045fb78f5640": {
+      "title": "Software Engineer",
+      "company": "crewlia",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-crewlia-4469528481",
+      "seen_at": "2026-09-19T13:56:47.885447+00:00"
+    },
+    "5fba7de59ae343ee5b06": {
+      "title": "Back End Developer",
+      "company": "internmo",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-internmo-4468092023",
+      "seen_at": "2026-09-19T13:56:47.885453+00:00"
+    },
+    "49ec6658b4690bffedc2": {
+      "title": "Back End Developer",
+      "company": "Nexal IIT",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4468078778",
+      "seen_at": "2026-09-19T13:56:47.885457+00:00"
     }
   }
 }
