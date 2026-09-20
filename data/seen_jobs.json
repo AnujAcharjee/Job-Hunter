@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-19T13:56:47.885457+00:00",
+  "last_updated": "2026-09-20T07:56:28.993114+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -1093,6 +1093,42 @@
       "company": "Nexal IIT",
       "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4468078778",
       "seen_at": "2026-09-19T13:56:47.885457+00:00"
+    },
+    "973b379030f0706b2c3e": {
+      "title": "MERN Stack Developer Intern | Entry Level | Fresher | MongoDB, Express.js, React.js, Node.js | Remote",
+      "company": "Crossing Infotech",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-developer-intern-entry-level-fresher-mongodb-express-js-react-js-node-js-remote-at-crossing-infotech-4468444490",
+      "seen_at": "2026-09-20T07:56:28.993062+00:00"
+    },
+    "392d18562bfc37219f3c": {
+      "title": "MERN STACK DEVELOPMENT INTERN",
+      "company": "Webs IT Solution",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-development-intern-at-webs-it-solution-4468443449",
+      "seen_at": "2026-09-20T07:56:28.993095+00:00"
+    },
+    "cf95143d4edb2143d46e": {
+      "title": "Full Stack Developer Intern | Entry Level | Fresher | React, Node.js, JavaScript, SQL | Remote",
+      "company": "Crossing Infotech",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-intern-entry-level-fresher-react-node-js-javascript-sql-remote-at-crossing-infotech-4468450392",
+      "seen_at": "2026-09-20T07:56:28.993101+00:00"
+    },
+    "9ec60e56f5938edb8ab9": {
+      "title": "Full Stack Developer Intern",
+      "company": "Pupiltree.ai",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-pupiltree-ai-4466283028",
+      "seen_at": "2026-09-20T07:56:28.993105+00:00"
+    },
+    "a0fbe32f910d02e145b0": {
+      "title": "Backend Developer Intern | Entry Level | Fresher | Python, Node.js, APIs, SQL | Remote",
+      "company": "Skillzenloop",
+      "url": "https://in.linkedin.com/jobs/view/backend-developer-intern-entry-level-fresher-python-node-js-apis-sql-remote-at-skillzenloop-4467314584",
+      "seen_at": "2026-09-20T07:56:28.993110+00:00"
+    },
+    "3019c1335ba0d9d2305e": {
+      "title": "Backend Developer Intern | Entry Level | Fresher | Python, Node.js, SQL, REST APIs | Remote",
+      "company": "Crossing Infotech",
+      "url": "https://in.linkedin.com/jobs/view/backend-developer-intern-entry-level-fresher-python-node-js-sql-rest-apis-remote-at-crossing-infotech-4468460191",
+      "seen_at": "2026-09-20T07:56:28.993114+00:00"
     }
   }
 }
