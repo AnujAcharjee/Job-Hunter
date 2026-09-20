@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-20T07:56:28.993114+00:00",
+  "last_updated": "2026-09-20T14:16:40.458553+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -1129,6 +1129,30 @@
       "company": "Crossing Infotech",
       "url": "https://in.linkedin.com/jobs/view/backend-developer-intern-entry-level-fresher-python-node-js-sql-rest-apis-remote-at-crossing-infotech-4468460191",
       "seen_at": "2026-09-20T07:56:28.993114+00:00"
+    },
+    "3abe8c0665f310612e98": {
+      "title": "Software Developer Intern | Entry Level | Fresher | Programming, Git, SQL, Software Development | Remote",
+      "company": "Skillzenloop",
+      "url": "https://in.linkedin.com/jobs/view/software-developer-intern-entry-level-fresher-programming-git-sql-software-development-remote-at-skillzenloop-4467320456",
+      "seen_at": "2026-09-20T14:16:40.458508+00:00"
+    },
+    "66c9a11ce14616cc40e1": {
+      "title": "Back End Developer",
+      "company": "Nexal IIT",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4468455759",
+      "seen_at": "2026-09-20T14:16:40.458545+00:00"
+    },
+    "eb7f0d2f13aefa968de3": {
+      "title": "Java Developer Intern | Entry Level | Fresher | Java, Spring Boot, SQL, REST API | Remote",
+      "company": "Crossing Infotech",
+      "url": "https://in.linkedin.com/jobs/view/java-developer-intern-entry-level-fresher-java-spring-boot-sql-rest-api-remote-at-crossing-infotech-4468441631",
+      "seen_at": "2026-09-20T14:16:40.458550+00:00"
+    },
+    "9529d8a026ff1680ee8f": {
+      "title": "Laravel Developer",
+      "company": "AnantaX Technologies",
+      "url": "https://in.linkedin.com/jobs/view/laravel-developer-at-anantax-technologies-4462035200",
+      "seen_at": "2026-09-20T14:16:40.458553+00:00"
     }
   }
 }
