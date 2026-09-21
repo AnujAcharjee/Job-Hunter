@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-20T14:16:40.458553+00:00",
+  "last_updated": "2026-09-21T08:13:57.502042+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -1153,6 +1153,48 @@
       "company": "AnantaX Technologies",
       "url": "https://in.linkedin.com/jobs/view/laravel-developer-at-anantax-technologies-4462035200",
       "seen_at": "2026-09-20T14:16:40.458553+00:00"
+    },
+    "907d0a6158a59b6ee6fb": {
+      "title": "Software Development Intern - Full Stack / Backend Focus",
+      "company": "YourfriendlyHR",
+      "url": "https://in.linkedin.com/jobs/view/software-development-intern-full-stack-backend-focus-at-yourfriendlyhr-4468711543",
+      "seen_at": "2026-09-21T08:13:57.501915+00:00"
+    },
+    "831c93b7c6607d04335d": {
+      "title": "AI Engineer Intern",
+      "company": "Recruitable",
+      "url": "https://in.linkedin.com/jobs/view/ai-engineer-intern-at-recruitable-4468490726",
+      "seen_at": "2026-09-21T08:13:57.501991+00:00"
+    },
+    "d52819ff2d08d7182126": {
+      "title": "Full Stack Developer Intern | Entry Level | Fresher | React, Node.js, JavaScript, SQL | Remote",
+      "company": "MediNex Workforce",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-intern-entry-level-fresher-react-node-js-javascript-sql-remote-at-medinex-workforce-4468712530",
+      "seen_at": "2026-09-21T08:13:57.502005+00:00"
+    },
+    "1bbc63e5c57191a4cec8": {
+      "title": "Full Stack Developer Intern | Entry Level | Fresher | React, Node.js, SQL, JavaScript | Remote",
+      "company": "Skillzenloop",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-intern-entry-level-fresher-react-node-js-sql-javascript-remote-at-skillzenloop-4467321452",
+      "seen_at": "2026-09-21T08:13:57.502014+00:00"
+    },
+    "4b4839b854c42d446e6d": {
+      "title": "MERN STACK DEVELOPMENT INTERN",
+      "company": "WebBoost Solutions by UM",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-development-intern-at-webboost-solutions-by-um-4469845725",
+      "seen_at": "2026-09-21T08:13:57.502024+00:00"
+    },
+    "bb4631372b9239906938": {
+      "title": "MERN Stack Internship Opportunity at KrishLabs (Unpaid)",
+      "company": "KrishLabs",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-internship-opportunity-at-krishlabs-unpaid-at-krishlabs-4467362410",
+      "seen_at": "2026-09-21T08:13:57.502033+00:00"
+    },
+    "d4d053cc85d5893e75cd": {
+      "title": "Back End Developer",
+      "company": "Nexal IIT",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4468496892",
+      "seen_at": "2026-09-21T08:13:57.502042+00:00"
     }
   }
 }
