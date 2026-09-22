@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-22T07:58:05.451021+00:00",
+  "last_updated": "2026-09-22T15:01:39.701375+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -1261,6 +1261,66 @@
       "company": "PV Doctor",
       "url": "https://in.linkedin.com/jobs/view/full-stack-intern-at-pv-doctor-4468521990",
       "seen_at": "2026-09-22T07:58:05.451021+00:00"
+    },
+    "22f6acef80fe21c858ce": {
+      "title": "MERN Stack Developer Intern | Entry Level | Fresher | MongoDB, Express.js, React.js, Node.js | Remote",
+      "company": "Crossing Infotech",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-developer-intern-entry-level-fresher-mongodb-express-js-react-js-node-js-remote-at-crossing-infotech-4468791918",
+      "seen_at": "2026-09-22T15:01:39.701302+00:00"
+    },
+    "237766fc538c574e1219": {
+      "title": "Full Stack Developer Intern | Entry Level | Fresher | React, Node.js, JavaScript, SQL | Remote",
+      "company": "Crossing Infotech",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-intern-entry-level-fresher-react-node-js-javascript-sql-remote-at-crossing-infotech-4468799477",
+      "seen_at": "2026-09-22T15:01:39.701339+00:00"
+    },
+    "05a038bfbc6cb3c72ca0": {
+      "title": "Backend Developer Intern | Entry Level | Fresher | Python, Node.js, SQL, REST APIs | Remote",
+      "company": "Crossing Infotech",
+      "url": "https://in.linkedin.com/jobs/view/backend-developer-intern-entry-level-fresher-python-node-js-sql-rest-apis-remote-at-crossing-infotech-4469013293",
+      "seen_at": "2026-09-22T15:01:39.701345+00:00"
+    },
+    "a657b41a11fcbb524593": {
+      "title": "Engineer Intern",
+      "company": "Atna.AI",
+      "url": "https://in.linkedin.com/jobs/view/engineer-intern-at-atna-ai-4468534954",
+      "seen_at": "2026-09-22T15:01:39.701348+00:00"
+    },
+    "924b54de3588a92c2993": {
+      "title": "GenAI Intern",
+      "company": "Coding Ninjas",
+      "url": "https://in.linkedin.com/jobs/view/genai-intern-at-coding-ninjas-4468561627",
+      "seen_at": "2026-09-22T15:01:39.701351+00:00"
+    },
+    "0751b3b88c6b8767065d": {
+      "title": "Java Developer Intern | Entry Level | Fresher | Java, SQL, Spring Boot, Git | Remote",
+      "company": "Crossing Infotech",
+      "url": "https://in.linkedin.com/jobs/view/java-developer-intern-entry-level-fresher-java-sql-spring-boot-git-remote-at-crossing-infotech-4469005433",
+      "seen_at": "2026-09-22T15:01:39.701354+00:00"
+    },
+    "8afad3506a36d9dd5de4": {
+      "title": "Python Developer Intern | Entry Level | Fresher | Python, SQL, Git | Remote",
+      "company": "Skillzenloop",
+      "url": "https://in.linkedin.com/jobs/view/python-developer-intern-entry-level-fresher-python-sql-git-remote-at-skillzenloop-4467315586",
+      "seen_at": "2026-09-22T15:01:39.701358+00:00"
+    },
+    "254f5da9a122edb63984": {
+      "title": "Back End Developer",
+      "company": "Joveo",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-joveo-4468530999",
+      "seen_at": "2026-09-22T15:01:39.701368+00:00"
+    },
+    "2d9c3ab93873450c1265": {
+      "title": "Back End Developer",
+      "company": "internmo",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-internmo-4468796443",
+      "seen_at": "2026-09-22T15:01:39.701372+00:00"
+    },
+    "f6d374a7dc67abb77ff4": {
+      "title": "Back End Developer",
+      "company": "Nexal IIT",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4469001263",
+      "seen_at": "2026-09-22T15:01:39.701375+00:00"
     }
   }
 }
