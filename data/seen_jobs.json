@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-21T16:30:51.667177+00:00",
+  "last_updated": "2026-09-22T07:58:05.451021+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -1231,6 +1231,36 @@
       "company": "Nexal IIT",
       "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4469911699",
       "seen_at": "2026-09-21T16:30:51.667177+00:00"
+    },
+    "4f32de1acaf98bd4a816": {
+      "title": "Full Stack Engineering Intern (FastAPI + Next.js)",
+      "company": "Cogneo Technologies",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-engineering-intern-fastapi-%2B-next-js-at-cogneo-technologies-4469929943",
+      "seen_at": "2026-09-22T07:58:05.450974+00:00"
+    },
+    "7d714febe2faaacdb00d": {
+      "title": "MERN STACK DEVELOPMENT INTERN",
+      "company": "WebBoost Solutions by UM",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-development-intern-at-webboost-solutions-by-um-4470234912",
+      "seen_at": "2026-09-22T07:58:05.451009+00:00"
+    },
+    "c7445810261c0b1cee8f": {
+      "title": "Back End Developer",
+      "company": "internmo",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-internmo-4470288200",
+      "seen_at": "2026-09-22T07:58:05.451014+00:00"
+    },
+    "c6cd28b13aefa673f4b8": {
+      "title": "Back End Developer",
+      "company": "Nexal IIT",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4470250475",
+      "seen_at": "2026-09-22T07:58:05.451018+00:00"
+    },
+    "8edd5600f7e11d3e5f03": {
+      "title": "Full Stack Intern",
+      "company": "PV Doctor",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-intern-at-pv-doctor-4468521990",
+      "seen_at": "2026-09-22T07:58:05.451021+00:00"
     }
   }
 }
