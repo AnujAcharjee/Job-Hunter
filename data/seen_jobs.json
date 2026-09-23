@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-22T15:01:39.701375+00:00",
+  "last_updated": "2026-09-23T07:59:33.537918+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -1321,6 +1321,36 @@
       "company": "Nexal IIT",
       "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4469001263",
       "seen_at": "2026-09-22T15:01:39.701375+00:00"
+    },
+    "553d70efa32b450cfb3f": {
+      "title": "Full Stack Developer Intern | Entry Level | Fresher | React, Node.js, SQL, JavaScript | Remote",
+      "company": "Skillzenloop",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-intern-entry-level-fresher-react-node-js-sql-javascript-remote-at-skillzenloop-4468598549",
+      "seen_at": "2026-09-23T07:59:33.537867+00:00"
+    },
+    "df0025cf9da07e29a121": {
+      "title": "Python Developer Intern",
+      "company": "Gandiv Insights LLC",
+      "url": "https://in.linkedin.com/jobs/view/python-developer-intern-at-gandiv-insights-llc-4467355045",
+      "seen_at": "2026-09-23T07:59:33.537906+00:00"
+    },
+    "2e34ee6490f3c29e995b": {
+      "title": "Software Developer Intern",
+      "company": "Quantek",
+      "url": "https://in.linkedin.com/jobs/view/software-developer-intern-at-quantek-4468973560",
+      "seen_at": "2026-09-23T07:59:33.537912+00:00"
+    },
+    "e33b1759cc375c182c1a": {
+      "title": "Java Developer Intern | Entry Level | Fresher | Java, Spring Boot, SQL, REST API | Remote",
+      "company": "Crossing Infotech",
+      "url": "https://in.linkedin.com/jobs/view/java-developer-intern-entry-level-fresher-java-spring-boot-sql-rest-api-remote-at-crossing-infotech-4469402888",
+      "seen_at": "2026-09-23T07:59:33.537915+00:00"
+    },
+    "6d19b57863f1837c120a": {
+      "title": "Java Developer Intern | Entry Level | Fresher | Java, SQL, Spring Boot, Git | Remote",
+      "company": "Crossing Infotech",
+      "url": "https://in.linkedin.com/jobs/view/java-developer-intern-entry-level-fresher-java-sql-spring-boot-git-remote-at-crossing-infotech-4469099924",
+      "seen_at": "2026-09-23T07:59:33.537918+00:00"
     }
   }
 }
