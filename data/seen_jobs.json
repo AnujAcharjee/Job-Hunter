@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-23T07:59:33.537918+00:00",
+  "last_updated": "2026-09-23T15:06:07.309501+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -1351,6 +1351,66 @@
       "company": "Crossing Infotech",
       "url": "https://in.linkedin.com/jobs/view/java-developer-intern-entry-level-fresher-java-sql-spring-boot-git-remote-at-crossing-infotech-4469099924",
       "seen_at": "2026-09-23T07:59:33.537918+00:00"
+    },
+    "7bddf57f4bfbdd29da28": {
+      "title": "Full Stack Development Internship in Delhi, Gurgaon, Chandigarh, Mohali, Noida (Hybrid)",
+      "company": "CipherSchools",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-development-internship-in-delhi-gurgaon-chandigarh-mohali-noida-hybrid-at-cipherschools-4463670673",
+      "seen_at": "2026-09-23T15:06:07.309425+00:00"
+    },
+    "42c30538d581845ea0ca": {
+      "title": "AI Intern",
+      "company": "TECEZE",
+      "url": "https://in.linkedin.com/jobs/view/ai-intern-at-teceze-4465493287",
+      "seen_at": "2026-09-23T15:06:07.309463+00:00"
+    },
+    "9b32ba91c8d9df4713fc": {
+      "title": "Software Engineer",
+      "company": "SortMyScene",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-at-sortmyscene-4469324061",
+      "seen_at": "2026-09-23T15:06:07.309470+00:00"
+    },
+    "c9728f6607a50d5de71c": {
+      "title": "Back End Developer",
+      "company": "internmo",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-internmo-4469459098",
+      "seen_at": "2026-09-23T15:06:07.309473+00:00"
+    },
+    "0fc1e389b55052593f4f": {
+      "title": "Back End Developer",
+      "company": "Nexal IIT",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4469453107",
+      "seen_at": "2026-09-23T15:06:07.309477+00:00"
+    },
+    "4e482d25d1a8b895bc8c": {
+      "title": "Junior Applied AI Engineer",
+      "company": "ILLUIN Technology",
+      "url": "https://www.arbeitnow.fr/jobs/companies/illuin-technology/junior-applied-ai-engineer-paris-445144",
+      "seen_at": "2026-09-23T15:06:07.309480+00:00"
+    },
+    "27254ddc121e989b6e36": {
+      "title": "Frontend Engineer",
+      "company": "Bjak ",
+      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410",
+      "seen_at": "2026-09-23T15:06:07.309483+00:00"
+    },
+    "4014ad9101c6976d08ef": {
+      "title": "Fullstack Engineer",
+      "company": "Monks",
+      "url": "https://jobicy.com/jobs/151168-fullstack-engineer",
+      "seen_at": "2026-09-23T15:06:07.309493+00:00"
+    },
+    "8198521f5dbb7a1b2aef": {
+      "title": "Web Frontend Engineer - JS, CSS, React, Flutter",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter",
+      "seen_at": "2026-09-23T15:06:07.309498+00:00"
+    },
+    "f04a402d22ebd29d8b9c": {
+      "title": "Junior Payroll Assistant",
+      "company": "Sleek",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-payroll-assistant-sleek-1137391",
+      "seen_at": "2026-09-23T15:06:07.309501+00:00"
     }
   }
 }
