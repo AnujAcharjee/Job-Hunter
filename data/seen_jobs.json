@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-24T07:50:40.519282+00:00",
+  "last_updated": "2026-09-24T15:14:45.718056+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -1447,6 +1447,66 @@
       "company": "Nexal IIT",
       "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4470984263",
       "seen_at": "2026-09-24T07:50:40.519282+00:00"
+    },
+    "03a8fc26f303f3ae900e": {
+      "title": "MERN Stack Developer Intern",
+      "company": "Hancod",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-developer-intern-at-hancod-4469674338",
+      "seen_at": "2026-09-24T15:14:45.717979+00:00"
+    },
+    "b7ccce5a991613f640e5": {
+      "title": "FullStack developer intern",
+      "company": "Venxr",
+      "url": "https://in.linkedin.com/jobs/view/fullstack-developer-intern-at-venxr-4464841635",
+      "seen_at": "2026-09-24T15:14:45.718018+00:00"
+    },
+    "d4ab7f94c25e3bc6a969": {
+      "title": "SDE Intern",
+      "company": "LogAI",
+      "url": "https://in.linkedin.com/jobs/view/sde-intern-at-logai-4471466240",
+      "seen_at": "2026-09-24T15:14:45.718024+00:00"
+    },
+    "d35c9ad57ec65034943f": {
+      "title": "Full Stack Developer Intern",
+      "company": "LYFTRR",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-lyftrr-4469725756",
+      "seen_at": "2026-09-24T15:14:45.718027+00:00"
+    },
+    "a8b9e0e786f93b7f1c4f": {
+      "title": "Back End Developer",
+      "company": "Nexal IIT",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4469683630",
+      "seen_at": "2026-09-24T15:14:45.718031+00:00"
+    },
+    "7290ed6f5490e6991997": {
+      "title": "Junior Data Engineer (Databricks) (m/w/d)",
+      "company": "Collaboration Betters The World GmbH",
+      "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/junior-data-engineer-databricks-stuttgart-121910",
+      "seen_at": "2026-09-24T15:14:45.718035+00:00"
+    },
+    "3fe12b03431e4705379e": {
+      "title": "Frontend Engineer",
+      "company": "Bjak ",
+      "url": "https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420",
+      "seen_at": "2026-09-24T15:14:45.718038+00:00"
+    },
+    "2fa5b172adc62a8c4d50": {
+      "title": "Junior Linux Kernel Engineer - Ubuntu",
+      "company": "Canonical",
+      "url": "https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu",
+      "seen_at": "2026-09-24T15:14:45.718048+00:00"
+    },
+    "7271c5caf1b0522d23b4": {
+      "title": "Backend Engineer, AI (Agent Systems)",
+      "company": "Bjak",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/backend-engineer-ai-agent-systems-london-445402",
+      "seen_at": "2026-09-24T15:14:45.718053+00:00"
+    },
+    "6c9f1fb63faedfdb3fb0": {
+      "title": "Backend Engineer (Security)",
+      "company": "Triggerdev",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/triggerdev/remote-backend-engineer-security-498097",
+      "seen_at": "2026-09-24T15:14:45.718056+00:00"
     }
   }
 }
