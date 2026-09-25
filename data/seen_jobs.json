@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-24T15:14:45.718056+00:00",
+  "last_updated": "2026-09-25T08:13:05.030551+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -1507,6 +1507,54 @@
       "company": "Triggerdev",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/triggerdev/remote-backend-engineer-security-498097",
       "seen_at": "2026-09-24T15:14:45.718056+00:00"
+    },
+    "5964ba4b57c34442b265": {
+      "title": "Full Stack Developer Intern | Entry Level | Fresher | React, Node.js, SQL, JavaScript | Remote",
+      "company": "Skillzenloop",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-intern-entry-level-fresher-react-node-js-sql-javascript-remote-at-skillzenloop-4469771362",
+      "seen_at": "2026-09-25T08:13:05.030490+00:00"
+    },
+    "8bcc321b4e4baf75b01e": {
+      "title": "Full Stack Development Internship in Chandigarh, Mohali, Delhi, Gurgaon, Noida (Hybrid)",
+      "company": "CipherSchools",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-development-internship-in-chandigarh-mohali-delhi-gurgaon-noida-hybrid-at-cipherschools-4463680052",
+      "seen_at": "2026-09-25T08:13:05.030526+00:00"
+    },
+    "1aaa5d3f082e1d18e1e7": {
+      "title": "Full Stack Development Internship in Chandigarh, Mohali, Delhi, Gurgaon, Noida (Hybrid)",
+      "company": "CipherSchools",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-development-internship-in-chandigarh-mohali-delhi-gurgaon-noida-hybrid-at-cipherschools-4463661819",
+      "seen_at": "2026-09-25T08:13:05.030530+00:00"
+    },
+    "86dde60eb169b5cde751": {
+      "title": "AI Engineer Intern",
+      "company": "Cogrion",
+      "url": "https://in.linkedin.com/jobs/view/ai-engineer-intern-at-cogrion-4470071388",
+      "seen_at": "2026-09-25T08:13:05.030533+00:00"
+    },
+    "614e8a922878df9de348": {
+      "title": "Full Stack Development Internship in Chandigarh, Mohali, Delhi, Gurgaon, Noida (Hybrid)",
+      "company": "CipherSchools",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-development-internship-in-chandigarh-mohali-delhi-gurgaon-noida-hybrid-at-cipherschools-4463670673",
+      "seen_at": "2026-09-25T08:13:05.030536+00:00"
+    },
+    "a7c80ef006f0f0ccdb24": {
+      "title": "Back End Developer",
+      "company": "ThinkNovaa",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-thinknovaa-4470084691",
+      "seen_at": "2026-09-25T08:13:05.030539+00:00"
+    },
+    "c34f229f507352248a97": {
+      "title": "Back End Developer",
+      "company": "Nexal IIT",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4470071861",
+      "seen_at": "2026-09-25T08:13:05.030542+00:00"
+    },
+    "75fefdcd211299b4badc": {
+      "title": "Java Developer Intern | Entry Level | Fresher | Java, SQL, OOP, Git | Remote",
+      "company": "Skillzenloop",
+      "url": "https://in.linkedin.com/jobs/view/java-developer-intern-entry-level-fresher-java-sql-oop-git-remote-at-skillzenloop-4469759826",
+      "seen_at": "2026-09-25T08:13:05.030551+00:00"
     }
   }
 }
