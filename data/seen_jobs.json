@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-25T15:20:22.188422+00:00",
+  "last_updated": "2026-09-26T08:02:10.977503+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -1561,6 +1561,48 @@
       "company": "Nexal IIT",
       "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4470098609",
       "seen_at": "2026-09-25T15:20:22.188422+00:00"
+    },
+    "bdcbebba1bd97e362e0a": {
+      "title": "Full Stack Development Internship in Delhi, Gurgaon, Chandigarh, Mohali, Noida (Hybrid)",
+      "company": "CipherSchools",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-development-internship-in-delhi-gurgaon-chandigarh-mohali-noida-hybrid-at-cipherschools-4463659856",
+      "seen_at": "2026-09-26T08:02:10.977451+00:00"
+    },
+    "be9f5be54a35e07fcbce": {
+      "title": "Full Stack Development Internship in Delhi, Gurgaon, Chandigarh, Mohali, Noida (Hybrid)",
+      "company": "CipherSchools",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-development-internship-in-delhi-gurgaon-chandigarh-mohali-noida-hybrid-at-cipherschools-4463680052",
+      "seen_at": "2026-09-26T08:02:10.977488+00:00"
+    },
+    "4998e6b4f1009c722389": {
+      "title": "Full Stack Developer Intern | Entry Level | Fresher | React, Node.js, JavaScript, SQL | Remote",
+      "company": "Crossing Infotech",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-intern-entry-level-fresher-react-node-js-javascript-sql-remote-at-crossing-infotech-4470392661",
+      "seen_at": "2026-09-26T08:02:10.977492+00:00"
+    },
+    "0864157373a02c071666": {
+      "title": "Back End Developer",
+      "company": "ThinkNovaa",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-thinknovaa-4470779364",
+      "seen_at": "2026-09-26T08:02:10.977495+00:00"
+    },
+    "6ec21d03d6168335495b": {
+      "title": "Back End Developer",
+      "company": "Nexal IIT",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4470782733",
+      "seen_at": "2026-09-26T08:02:10.977498+00:00"
+    },
+    "b6f90908edf8e1534c6f": {
+      "title": "Software Development Intern (Full Time)",
+      "company": "Problink Infocare",
+      "url": "https://in.linkedin.com/jobs/view/software-development-intern-full-time-at-problink-infocare-4470301596",
+      "seen_at": "2026-09-26T08:02:10.977500+00:00"
+    },
+    "500032727df292e57f58": {
+      "title": "Java Developer Intern | Entry Level | Fresher | Java, SQL, Spring Boot, Git | Remote",
+      "company": "Crossing Infotech",
+      "url": "https://in.linkedin.com/jobs/view/java-developer-intern-entry-level-fresher-java-sql-spring-boot-git-remote-at-crossing-infotech-4470392651",
+      "seen_at": "2026-09-26T08:02:10.977503+00:00"
     }
   }
 }
