@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-26T08:02:10.977503+00:00",
+  "last_updated": "2026-09-26T14:33:59.154716+00:00",
   "seen_ids": {
     "7f64ff1b48a10cb79ab1": {
       "title": "AI Engineer Data APIs",
@@ -1603,6 +1603,48 @@
       "company": "Crossing Infotech",
       "url": "https://in.linkedin.com/jobs/view/java-developer-intern-entry-level-fresher-java-sql-spring-boot-git-remote-at-crossing-infotech-4470392651",
       "seen_at": "2026-09-26T08:02:10.977503+00:00"
+    },
+    "075cb62c353fb56bac7f": {
+      "title": "Intern Full Stack (Agentic AI Applications) Development",
+      "company": "Tecnod8.AI",
+      "url": "https://in.linkedin.com/jobs/view/intern-full-stack-agentic-ai-applications-development-at-tecnod8-ai-4466662629",
+      "seen_at": "2026-09-26T14:33:59.154660+00:00"
+    },
+    "afcfaf3537ecfe54b91f": {
+      "title": "Startup Internship - Full Stack Developer Intern",
+      "company": "Neximprove",
+      "url": "https://in.linkedin.com/jobs/view/startup-internship-full-stack-developer-intern-at-neximprove-4442302782",
+      "seen_at": "2026-09-26T14:33:59.154695+00:00"
+    },
+    "5b5bd40df5c4468f74b9": {
+      "title": "Software Development Engineer - Intern",
+      "company": "ecolyt.ai",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-intern-at-ecolyt-ai-4471006616",
+      "seen_at": "2026-09-26T14:33:59.154700+00:00"
+    },
+    "7977fc30c720c1a9a78a": {
+      "title": "Full-Stack Developer Intern",
+      "company": "Vigilant Forensic Research And Analytics Pvt. Ltd.",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-intern-at-vigilant-forensic-research-and-analytics-pvt-ltd-4471008694",
+      "seen_at": "2026-09-26T14:33:59.154705+00:00"
+    },
+    "f4c8fee679a582fd9d22": {
+      "title": "SDE Intern",
+      "company": "Margadeshaka",
+      "url": "https://in.linkedin.com/jobs/view/sde-intern-at-margadeshaka-4332272138",
+      "seen_at": "2026-09-26T14:33:59.154709+00:00"
+    },
+    "6816dded5f68b707f145": {
+      "title": "Back End Developer",
+      "company": "Nexal IIT",
+      "url": "https://in.linkedin.com/jobs/view/back-end-developer-at-nexal-iit-4471014496",
+      "seen_at": "2026-09-26T14:33:59.154712+00:00"
+    },
+    "037f1d97f5d36fabb1d7": {
+      "title": "Software Developer Intern | Entry Level | Fresher | Programming, Git, SQL, Software Development | Remote",
+      "company": "Skillzenloop",
+      "url": "https://in.linkedin.com/jobs/view/software-developer-intern-entry-level-fresher-programming-git-sql-software-development-remote-at-skillzenloop-4470545733",
+      "seen_at": "2026-09-26T14:33:59.154716+00:00"
     }
   }
 }
