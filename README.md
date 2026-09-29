@@ -1,108 +1,121 @@
-# 🚀 Automated Daily Job Hunter (GitHub Actions + Gemini AI + Telegram)
+# 🚀 Job Hunter
 
-An automated cloud pipeline tailored specifically for **Anuj Acharjee** (B.Tech CSE, 2027 batch). Twice a day (8:30 AM & 4:00 PM IST), it prioritizes and fetches **Indian internships & jobs directly from LinkedIn India, Big Tech careers, Internshala, and Unstop**, uses **Google Gemini AI** to evaluate each opening against your resume (MERN, Next.js, GenAI), and pushes curated cards with 1-click apply links to your **Telegram**.
+> An autonomous AI agent that monitors **LinkedIn, Internshala, AICTE Portal, and Naukri** daily for fresh software engineering internships and jobs matching your profile, evaluates match quality with Google Gemini AI, and dispatches structured alerts straight to Telegram.
 
----
-
-## ✨ Key Features
-- **🇮🇳 India & LinkedIn Prioritized**: Directly queries LinkedIn India for fresh MERN, Full-Stack, Backend, SDE, and GenAI internships across Bengaluru, Hyderabad, Pune, Delhi NCR, and remote India.
-- **100% Free & Cloud-Based**: Runs on GitHub Actions in the cloud. Your laptop doesn't need to be on!
-- **Gemini AI Filter**: Evaluates tech stack match, experience requirements, and filters out senior roles or foreign-restricted spam.
-- **Direct to Mobile**: Receive attractive cards with 1-click **"🚀 Apply on LinkedIn"** buttons on your phone via Telegram.
-- **Zero Duplicate Spam**: Tracks applied/seen jobs in `data/seen_jobs.json` so you never see the same listing twice.
+Runs **100% free** in the cloud on **GitHub Actions**.
 
 ---
 
-## 🛠️ Quick Setup Guide (Takes ~5 Minutes)
+## ⚡ Step-by-Step Setup Guide
 
-### Step 1: Get Free Gemini API Key
-1. Go to [Google AI Studio](https://aistudio.google.com/app/apikey).
-2. Sign in with your Google Account and click **"Create API key"**.
-3. Copy your key.
+### Step 1: Clone the Repository
 
----
-
-### Step 2: Create Your Free Telegram Bot (2 minutes)
-1. Open **Telegram** on your phone or desktop and search for `@BotFather`.
-2. Tap **Start** and send the command:
-   ```
-   /newbot
-   ```
-3. Follow the prompt to name your bot (e.g. `Anuj Job Hunter`) and give it a username (e.g. `anuj_job_hunter_bot`).
-4. `@BotFather` will give you a **Bot Token** (looks like `7123456789:AAF...`). Save this token!
-5. Now open your new bot in Telegram and tap **Start** (or send any message like `/start` so it can message you).
-6. To get your personal **Chat ID**:
-   - Search for `@userinfobot` on Telegram.
-   - Tap **Start**. It will immediately reply with your `Id` (e.g. `123456789`). Save this number!
+```bash
+git clone https://github.com/your-username/job-hunter.git
+cd job-hunter
+```
 
 ---
 
-### Step 3: Test Locally (Optional)
-1. Create a `.env` file from the template:
-   ```bash
-   copy .env.example .env
-   ```
-2. Paste your keys into `.env`:
-   ```env
-   GEMINI_API_KEY=your_gemini_key
-   TELEGRAM_BOT_TOKEN=your_bot_token
-   TELEGRAM_CHAT_ID=your_chat_id
-   ```
-3. Test your Telegram connection:
-   ```bash
-   python main.py --test-telegram
-   ```
-   *(You will receive an instant test message on your Telegram!)*
+### Step 2: Personalize Your Profile
 
-4. Test fetching & AI evaluation without sending real alerts:
-   ```bash
-   python main.py --dry-run
-   ```
+Open and edit **[`profile.json`](profile.json)** to match your target stack and preferences:
 
----
+```json
+{
+  "candidate": {
+    "search_mode": "internship",
+    "education": "B.Tech in Computer Science and Engineering (Expected 2027)",
+    "target_roles": [
+      "Full Stack Developer Intern",
+      "Software Development Engineer (SDE) Intern",
+      "Python / Backend Developer Intern",
+      "MERN Stack Developer Intern",
+      "Agentic AI / AI Agent Developer Intern"
+    ],
+    "skills": {
+      "languages": ["TypeScript", "JavaScript", "Python", "SQL"],
+      "frameworks": ["React", "Node.js", "Express", "FastAPI"],
+      "databases": ["PostgreSQL", "MongoDB"]
+    },
+    "priority_companies": [
+      "Google", "Microsoft", "Amazon", "Meta", "Apple", "Atlassian", "Uber"
+    ],
+    "disqualifiers": [
+      "Any full-time or experienced role (Internships only)",
+      "Java or Spring Boot roles",
+      "Machine Learning model training"
+    ]
+  }
+}
+```
 
-### Step 4: Push to a GitHub Repository
-1. Initialize git and push this project to a **Private GitHub Repository**:
-   ```bash
-   git init
-   git add .
-   git commit -m "feat: initial daily job hunter setup"
-   git branch -M main
-   git remote add origin https://github.com/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>.git
-   git push -u origin main
-   ```
-
----
-
-### Step 5: Add Your Secrets in GitHub
-1. In your GitHub repository, go to **Settings** > **Secrets and variables** > **Actions**.
-2. Under **Repository secrets**, click **New repository secret** and add:
-   - `GEMINI_API_KEY`: Your Gemini API key from Step 1.
-   - `TELEGRAM_BOT_TOKEN`: Your bot token from `@BotFather`.
-   - `TELEGRAM_CHAT_ID`: Your numerical chat ID from `@userinfobot`.
-
----
-
-### Step 6: Enable Workflow Permissions
-1. In your repository, go to **Settings** > **Actions** > **General**.
-2. Scroll down to **Workflow permissions**.
-3. Select **"Read and write permissions"** (this allows the bot to commit `seen_jobs.json` so you never get duplicates).
-4. Click **Save**.
+#### What to configure:
+- **`search_mode`**: 
+  - `"internship"` *(default)*: Strictly internships (disqualifies full-time roles).
+  - `"full_time"`: Strictly full-time roles (disqualifies internships).
+  - `"both"`: Evaluates both.
+- **`target_roles`**: Your target titles (e.g., MERN, Python, Full Stack, SDE).
+- **`skills`**: Your active languages, libraries, and databases.
+- **`disqualifiers`**: Keywords or stacks automatically rejected (Score 1/10).
+- **`priority_companies`**: Dream companies to highlight with a **🌟 Big Tech Spotlight** badge.
+- **`priority_locations`**: Preferred cities or remote options.
 
 ---
 
-## ⏰ Schedule & Manual Trigger
-- **Automated Schedule**: Runs **twice every day**:
-  - **Morning**: **~8:18 AM IST** (`02:48 UTC` - off-peak minute to avoid GitHub Actions delays)
-  - **Afternoon**: **~3:48 PM IST** (`10:18 UTC` - off-peak minute to avoid GitHub Actions delays)
-- **Manual Run**: You can trigger a run anytime!
-  - Go to the **Actions** tab in your GitHub repository.
-  - Click **Daily Job Hunter** on the left.
-  - Click the **Run workflow** dropdown button.
+### Step 3: Add GitHub Secrets
+
+In your GitHub repository, go to **Settings** ➔ **Secrets and variables** ➔ **Actions** ➔ **New repository secret**, and add:
+
+| Secret Name | Where to get it | Description |
+|---|---|---|
+| `GEMINI_API_KEY` | [Google AI Studio](https://aistudio.google.com/app/apikey) | Free API key for AI match evaluation. |
+| `TELEGRAM_BOT_TOKEN` | [@BotFather](https://t.me/botfather) | Bot authorization token. |
+| `TELEGRAM_CHAT_ID` | Telegram | Your Chat ID or Channel ID (add bot as admin). |
 
 ---
 
-## ⚙️ Customization
-- **Change Target Roles / Skills**: Modify `profile.json`.
-- **Change Score Threshold**: Set `MIN_MATCH_SCORE=8` in `.env` (or GitHub Actions env) to only get top-tier 8+/10 matches.
-- **Change Daily Limit**: Set `MAX_JOBS_PER_RUN=15` to get more alerts per day.
+### Step 4: Commit & Push to GitHub
+
+Save your changes and push them to your repository:
+
+```bash
+git add .
+git commit -m "feat: configure personalized profile"
+git push origin main
+```
+
+---
+
+### Step 5: Run & Automate
+
+- **Automated:** GitHub Actions runs automatically every morning at **9:00 AM IST** (`30 3 * * *` UTC).
+- **Test Instantly:** Go to your repo's **Actions** tab ➔ **Daily Tech Internship Hunter** ➔ click **Run workflow**.
+
+*(Optional local execution: `pip install -r requirements.txt` ➔ copy `.env.example` to `.env` ➔ `python main.py`)*
+
+---
+
+## 📬 Telegram Alert Format
+
+Postings published strictly within the **past 7 days** meeting the quality score threshold (**`>= 8/10`**) are dispatched in this schema:
+
+```text
+🌟🌟🌟 BIG TECH INTERNSHIP SPOTLIGHT 🌟🌟🌟 (If Priority Company)
+🏆 (n/10) match: Title
+🏢 Company: Company Name [Tier-1 / Big Tech]
+📍 Location: Full Location
+💡 Skills: Key Matched Skills
+🌐 Source: LinkedIn / Internshala / AICTE / Naukri
+📅 Posted Date: Relative or exact date (within past 7 days)
+⏰ Last Date to Apply: Deadline date or Open / Rolling
+🔗 Link: https://...
+🧠 Insights: AI Analysis
+```
+*Each alert includes an interactive 1-tap inline apply button.*
+
+---
+
+## 🤖 System Architecture
+
+For architectural specifications, scraping pipelines, scoring algorithms, and autonomous agent instructions, refer to [AGENTS.md](AGENTS.md).

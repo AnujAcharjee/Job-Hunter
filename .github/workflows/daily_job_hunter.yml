@@ -1,19 +1,17 @@
-name: Daily Job Hunter
+name: Daily Tech Internship Hunter
 
 on:
   schedule:
-    # Morning: ~8:18 AM IST (02:48 UTC - off-peak minute to avoid GitHub Actions queue delays)
-    - cron: '48 2 * * *'
-    # Afternoon: ~3:48 PM IST (10:18 UTC - off-peak minute to avoid GitHub Actions queue delays)
-    - cron: '18 10 * * *'
-  # Allows you to manually trigger the job hunt anytime from the Actions tab
+    # Daily at 9:00 AM IST (03:30 AM UTC)
+    - cron: '30 3 * * *'
+  # Allows manual triggering from GitHub Actions UI anytime
   workflow_dispatch:
 
 permissions:
   contents: write
 
 jobs:
-  hunt_jobs:
+  hunt_internships:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
@@ -28,13 +26,13 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run Job Hunter
+      - name: Run Internship Hunter
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          MIN_MATCH_SCORE: "7"
-          MAX_JOBS_PER_RUN: "10"
+          MIN_MATCH_SCORE: "8"
+          MAX_JOBS_PER_RUN: "0"
         run: |
           python main.py
 

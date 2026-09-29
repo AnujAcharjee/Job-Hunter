@@ -31,7 +31,7 @@ class TelegramNotifier:
             payload["reply_markup"] = json.dumps(reply_markup)
 
         try:
-            resp = requests.post(url, json=payload, timeout=12)
+            resp = requests.post(url, json=payload, timeout=15)
             if resp.status_code == 200:
                 return True
             else:
@@ -42,32 +42,56 @@ class TelegramNotifier:
             return False
 
     def send_job_alert(self, job: Dict[str, Any]) -> bool:
-        """Format and send an attractive job card to Telegram with direct Apply button."""
-        title = html.escape(job.get("title", "Untitled Role"))
-        company = html.escape(job.get("company", "Unknown Company"))
+        """
+        Format and send job card adhering strictly to requested format:
+        (n/10) match
+        company name
+        location: full (prefer in india)
+        Skills
+        src
+        link
+        insigths
+        Highlights Big Tech companies prominently.
+        """
+        score = job.get("score", 8)
+        title = html.escape(job.get("title", "Tech Intern"))
+        company = html.escape(job.get("company", "Company"))
         location = html.escape(job.get("location", "India"))
-        source = html.escape(job.get("source", "LinkedIn (India)"))
-        score = job.get("score", 7)
-        summary = html.escape(job.get("match_summary", ""))
-        skills = ", ".join(job.get("key_skills", [])) or "MERN / GenAI"
+        source = html.escape(job.get("source", "Internship Portal"))
+        summary = html.escape(job.get("match_summary", "Strong match for your tech stack."))
+        posted_date = html.escape(job.get("posted_date", "Recently Posted"))
+        last_date = html.escape(job.get("last_date", "Apply ASAP / Open"))
+        
+        raw_skills = job.get("key_skills", [])
+        skills_str = ", ".join(raw_skills) if raw_skills else "MERN / Python / Full Stack / Agentic AI"
+        skills = html.escape(skills_str)
+        
         apply_url = job.get("url", "")
-        is_india = job.get("is_india", False)
+        is_big_tech = job.get("is_big_tech", False)
 
-        score_emoji = "🔥" if score >= 9 else ("✨" if score >= 8 else "⭐")
-        loc_icon = "🇮🇳" if is_india else "📍"
-        india_tag = " [India]" if is_india else ""
+        if is_big_tech:
+            header = "🌟🌟🌟 <b>BIG TECH INTERNSHIP SPOTLIGHT</b> 🌟🌟🌟\n\n"
+            match_line = f"🏆 <b>({score}/10) match:</b> <b>{title}</b>"
+            company_line = f"🏢 <b>Company:</b> <b>{company}</b> 🏆 [Tier-1 / Big Tech]"
+        else:
+            header = ""
+            match_line = f"🎯 <b>({score}/10) match:</b> <b>{title}</b>"
+            company_line = f"🏢 <b>Company:</b> <b>{company}</b>"
 
         card = (
-            f"{score_emoji} <b>New Match ({score}/10){india_tag}</b>: <b>{title}</b>\n\n"
-            f"🏢 <b>Company:</b> {company}\n"
-            f"{loc_icon} <b>Location:</b> {location}\n"
-            f"💼 <b>Source:</b> {source}\n"
-            f"💡 <b>Skills:</b> <code>{html.escape(skills)}</code>\n\n"
-            f"🤖 <b>Gemini Insight:</b>\n<i>{summary}</i>\n\n"
-            f"🔗 <a href=\"{apply_url}\"><b>Tap to View & Apply</b></a>"
+            f"{header}"
+            f"{match_line}\n"
+            f"{company_line}\n"
+            f"📍 <b>Location:</b> {location}\n"
+            f"💡 <b>Skills:</b> <code>{skills}</code>\n"
+            f"🌐 <b>Source:</b> {source}\n"
+            f"📅 <b>Posted Date:</b> {posted_date}\n"
+            f"⏰ <b>Last Date to Apply:</b> {last_date}\n"
+            f"🔗 <b>Link:</b> <a href=\"{apply_url}\">{apply_url}</a>\n"
+            f"🧠 <b>Insights:</b> <i>{summary}</i>"
         )
 
-        button_text = "🚀 Apply on LinkedIn" if "linkedin" in source.lower() else "🚀 Apply Now"
+        button_text = f"🚀 Apply on {source}" if len(source) < 20 else "🚀 Tap to Apply"
         reply_markup = {
             "inline_keyboard": [
                 [{"text": button_text, "url": apply_url}]
@@ -77,21 +101,25 @@ class TelegramNotifier:
         return self.send_message(card, reply_markup=reply_markup)
 
     def send_batch_summary(self, matched_jobs: List[Dict[str, Any]]) -> int:
-        """Send alerts for a list of matched jobs with polite delay between messages."""
+        """Send alerts for ALL matched internships (no artificial cap), highlighting Big Tech."""
         if not self.is_configured():
-            print("[Notifier] Telegram not configured. Printing jobs to console instead:")
+            print("[Notifier] Telegram not configured. Printing matched internships to console:")
             for j in matched_jobs:
                 print(f" -> [{j.get('score')}/10] {j.get('title')} at {j.get('company')} ({j.get('url')})")
             return len(matched_jobs)
 
+        big_tech_count = sum(1 for j in matched_jobs if j.get("is_big_tech"))
         sent_count = 0
+
         header_text = (
-            f"🚀 <b>Daily Job Hunter Update</b>\n"
-            f"Found <b>{len(matched_jobs)}</b> strong matches tailored to your profile today!\n"
-            f"<i>Targeting: MERN Stack, Full-Stack, Web Dev & GenAI Internships</i>"
+            f"🚀 <b>Daily Internship Hunter Update (9:00 AM IST)</b>\n\n"
+            f"Found <b>{len(matched_jobs)}</b> verified internship opportunities matching your profile (Score 8+/10)!\n"
+            f"🏆 <b>Big Tech Opportunities:</b> {big_tech_count}\n"
+            f"🎯 <b>Target Stack:</b> <i>MERN, PostgreSQL (PG), Agentic AI, Python, Full Stack & SDE</i>\n"
+            f"<i>Strict filtering applied: No ML model training, No Java/Spring.</i>"
         )
         self.send_message(header_text)
-        time.sleep(1)
+        time.sleep(1.2)
 
         for job in matched_jobs:
             success = self.send_job_alert(job)
@@ -110,6 +138,7 @@ class TelegramNotifier:
         test_msg = (
             "🎉 <b>Job Hunter Bot is Online!</b>\n\n"
             "Your Telegram alerts are properly configured.\n"
-            "You will receive daily curated internship and job updates right here!"
+            "You will receive daily curated internship updates right here at 9:00 AM IST!\n"
+            "<i>Filter: Score 8+/10 | Strictly Internships | Big Tech Highlighted</i>"
         )
         return self.send_message(test_msg)

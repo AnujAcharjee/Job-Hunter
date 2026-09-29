@@ -1,46 +1,48 @@
 {
   "candidate": {
-    "name": "Anuj Acharjee",
-    "education": "B.Tech in Computer Science and Engineering, Narula Institute of Technology (Expected May 2027)",
-    "current_status": "Student looking for Winter 2026/2027 internships, Big Tech & Startup SDE/Web/GenAI internships, and 2027 full-time roles",
+    "search_mode": "internship",
+    "education": "B.Tech in Computer Science and Engineering (Expected 2027)",
+    "current_status": "Student actively looking STRICTLY for INTERNSHIPS (Winter 2026/2027, Summer 2027, 6-Month Internships, SDE / MERN / Agentic AI / Python Internships)",
     "target_roles": [
-      "Winter Intern (2026/2027)",
-      "SDE Intern (Software Development Engineer)",
-      "Software Engineering Intern",
-      "6-Month Software Engineer Intern",
       "MERN Stack Developer Intern",
       "Full Stack Developer Intern",
-      "Frontend Developer Intern (React / Next.js)",
-      "Backend Developer Intern (Node.js / TypeScript / Distributed Systems)",
-      "Generative AI / LLM / AI Engineer Intern"
+      "Software Development Engineer (SDE) Intern",
+      "Software Engineering Intern",
+      "Agentic AI / AI Agent Developer Intern",
+      "Python / Backend Developer Intern (PostgreSQL, FastAPI, Node.js)",
+      "Frontend Developer Intern (React.js, Next.js)",
+      "Winter / Summer / 6-Month Tech Intern"
     ],
     "priority_companies": [
       "Google", "Microsoft", "Amazon", "Meta", "Apple", "Adobe", "Salesforce",
       "Atlassian", "Uber", "Oracle", "Cisco", "Goldman Sachs", "JP Morgan",
       "Morgan Stanley", "DE Shaw", "Intuit", "Flipkart", "Swiggy", "Zomato",
-      "Razorpay", "CRED", "PhonePe", "Stripe", "Databricks", "Snowflake"
+      "Razorpay", "CRED", "PhonePe", "Stripe", "Databricks", "Snowflake", "NVIDIA"
     ],
     "skills": {
-      "languages": ["TypeScript", "JavaScript", "C/C++", "Python"],
+      "languages": ["TypeScript", "JavaScript", "Python", "C/C++", "SQL"],
+      "agentic_ai": ["Agentic AI", "AI Agents", "LangChain", "LlamaIndex", "LLM APIs (Gemini/OpenAI)", "Tool Calling", "RAG"],
       "frontend": ["React.js", "Next.js", "Tailwind CSS", "HTML5", "CSS3"],
-      "backend": ["Node.js", "Express.js", "REST APIs", "WebSockets", "gRPC"],
-      "databases_caching": ["MongoDB", "PostgreSQL", "Redis", "Prisma ORM"],
-      "tools_devops": ["Docker", "Git", "GitHub", "GitHub Actions", "Turborepo", "Kafka", "Postman", "CI/CD"],
-      "concepts": ["Data Structures & Algorithms", "Distributed Systems", "Microservices", "System Design", "OAuth 2.0 / OIDC", "Multithreading", "LLM APIs", "RAG"]
+      "backend": ["Node.js", "Express.js", "Python (FastAPI/Flask)", "REST APIs", "WebSockets"],
+      "databases": ["PostgreSQL (PG)", "MongoDB", "Redis", "Prisma ORM"],
+      "tools_devops": ["Docker", "Git", "GitHub", "GitHub Actions", "Postman", "CI/CD"],
+      "concepts": ["Data Structures & Algorithms", "System Design Basics", "Distributed Systems", "OOP"]
     },
     "preferences": {
-      "job_types": ["internship", "winter internship", "summer internship", "full-time"],
-      "experience_level": ["intern", "entry-level", "fresher", "junior", "0-1 years", "student"],
+      "job_types": ["internship", "winter internship", "summer internship", "6-month internship"],
+      "experience_level": ["intern", "student", "entry-level intern"],
       "prioritize_india": true,
-      "priority_locations": ["India", "Kolkata", "Bengaluru", "Bangalore", "Hyderabad", "Pune", "Delhi NCR", "Gurgaon", "Noida", "Mumbai", "Chennai"],
+      "priority_locations": ["India", "Kolkata", "Bengaluru", "Bangalore", "Hyderabad", "Pune", "Delhi NCR", "Gurgaon", "Noida", "Mumbai", "Chennai", "Remote (India)"],
       "locations": ["India", "Kolkata", "Bengaluru", "Bangalore", "Hyderabad", "Pune", "Delhi NCR", "Gurgaon", "Noida", "Mumbai", "Chennai", "Remote (India)"],
       "open_to_remote": true
     },
     "disqualifiers": [
-      "Requires 3+ years of professional experience",
+      "Any full-time, contract, or non-internship role (MUST BE AN INTERNSHIP)",
+      "Machine Learning (ML), Deep Learning, Data Science, Model Training, or Computer Vision roles (NOT WANTED)",
+      "Java or Spring / Spring Boot / J2EE / Hibernate roles (NOT WANTED)",
+      "Requires 2+ years of professional full-time experience",
       "Senior, Lead, Staff, Principal, Architect, Director, Manager roles",
-      "Non-engineering roles (Sales, Telecaller, Digital Marketing, HR, BPO)",
-      "Unpaid internships without clear learning or stipend"
+      "Non-engineering roles (Sales, Telecaller, Digital Marketing, HR, BPO, Graphic Designer)"
     ]
   }
 }
