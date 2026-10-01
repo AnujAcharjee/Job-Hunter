@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-09-30T09:59:45.866165+00:00",
+  "last_updated": "2026-10-01T10:22:47.787624+00:00",
   "seen_ids": {
     "388b5005cd8449bc1ab1": {
       "title": "Google Tech Internship (Build AI for a billion Indian voices)",
@@ -589,6 +589,102 @@
       "company": "unstop.com",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yc0o3SWFLNlpZMFlZVEFZMmJMSFd4aEhRdlBHenFtTnBBVDQwSktFX21NVVVpUHNEQ0xCVTVvWFJQQWVnMWJMS2tjcXRtcU1RN29RZC0xa28zUF9wZE9tRVhTRDZRTlFDRjNsaXctRktHcFBKMVVncVJBdEp4UQ?oc=5",
       "seen_at": "2026-09-30T09:59:45.866165+00:00"
+    },
+    "6b205a6f67f772528841": {
+      "title": "AI Full Stack Intern",
+      "company": "Electronic Arts (EA)",
+      "url": "https://in.linkedin.com/jobs/view/ai-full-stack-intern-at-electronic-arts-ea-4472657639",
+      "seen_at": "2026-10-01T10:22:47.787527+00:00"
+    },
+    "2560e737928e93965cc3": {
+      "title": "MERN Stack Developer Trainee",
+      "company": "Hancod",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-developer-trainee-at-hancod-4473231350",
+      "seen_at": "2026-10-01T10:22:47.787562+00:00"
+    },
+    "cf92865cd2b0d8c167c3": {
+      "title": "MERN STACK DEVELOPMENT INTERN",
+      "company": "WebBoost Solutions by UM",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-development-intern-at-webboost-solutions-by-um-4474149484",
+      "seen_at": "2026-10-01T10:22:47.787568+00:00"
+    },
+    "2952cbdf756d8c3da8b4": {
+      "title": "Software Development Engineer - Intern",
+      "company": "Radiolinq",
+      "url": "https://in.linkedin.com/jobs/view/software-development-engineer-intern-at-radiolinq-4472134082",
+      "seen_at": "2026-10-01T10:22:47.787572+00:00"
+    },
+    "0a79fcf9b534b38e1bec": {
+      "title": "Full Stack Developer Intern | Entry Level | Fresher | React, Node.js, JavaScript, SQL | Remote",
+      "company": "MediNex Workforce",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-developer-intern-entry-level-fresher-react-node-js-javascript-sql-remote-at-medinex-workforce-4473719840",
+      "seen_at": "2026-10-01T10:22:47.787576+00:00"
+    },
+    "3fdbb9c79fb13e4f91e2": {
+      "title": "Fullstack Developer - Intern",
+      "company": "GreedyGame",
+      "url": "https://in.linkedin.com/jobs/view/fullstack-developer-intern-at-greedygame-4472153913",
+      "seen_at": "2026-10-01T10:22:47.787580+00:00"
+    },
+    "8077a742419dff2c2ab0": {
+      "title": "FULLSTACK WEB DEVELOPMENT INTERN",
+      "company": "Vortenza Systems",
+      "url": "https://in.linkedin.com/jobs/view/fullstack-web-development-intern-at-vortenza-systems-4474151458",
+      "seen_at": "2026-10-01T10:22:47.787584+00:00"
+    },
+    "8d14142794cae9a66026": {
+      "title": "Full Stack Web Developer",
+      "company": "internmo",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-web-developer-at-internmo-4472538096",
+      "seen_at": "2026-10-01T10:22:47.787596+00:00"
+    },
+    "ddd1d993f46e96d50e61": {
+      "title": "Associate Software Engineer Intern - YMS",
+      "company": "Kaleris",
+      "url": "https://in.linkedin.com/jobs/view/associate-software-engineer-intern-yms-at-kaleris-4471322071",
+      "seen_at": "2026-10-01T10:22:47.787601+00:00"
+    },
+    "275ac245f016590dc97e": {
+      "title": "PYTHON DEVELOPMENT INTERN",
+      "company": "Zenithbyte",
+      "url": "https://in.linkedin.com/jobs/view/python-development-intern-at-zenithbyte-4474150404",
+      "seen_at": "2026-10-01T10:22:47.787604+00:00"
+    },
+    "f17834a3160dc19ddf1a": {
+      "title": "Backend Developer",
+      "company": "Axionix Technologies",
+      "url": "https://in.linkedin.com/jobs/view/backend-developer-at-axionix-technologies-4472173272",
+      "seen_at": "2026-10-01T10:22:47.787608+00:00"
+    },
+    "befce99acf2c6bd7677d": {
+      "title": "Software Engineer Intern",
+      "company": "Dcluttr",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-intern-at-dcluttr-4470133724",
+      "seen_at": "2026-10-01T10:22:47.787612+00:00"
+    },
+    "719eb08f0bf4e3da442d": {
+      "title": "Software Engineer Intern",
+      "company": "Townmanor Technologies P-Ltd",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-intern-at-townmanor-technologies-p-ltd-4472503631",
+      "seen_at": "2026-10-01T10:22:47.787615+00:00"
+    },
+    "fa1e577a86f18b257330": {
+      "title": "Full Stack Intern",
+      "company": "Jansoft Global",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-intern-at-jansoft-global-4472166152",
+      "seen_at": "2026-10-01T10:22:47.787618+00:00"
+    },
+    "071982c363bfd9193625": {
+      "title": "SQL Developer Intern | Database & SQL | Entry-Level | Remote | Freshers Welcome",
+      "company": "Skillzenloop",
+      "url": "https://in.linkedin.com/jobs/view/sql-developer-intern-database-sql-entry-level-remote-freshers-welcome-at-skillzenloop-4472609777",
+      "seen_at": "2026-10-01T10:22:47.787621+00:00"
+    },
+    "a12d55a3f02897d0f0ce": {
+      "title": "Software Developer Internship at Brnd | Remote",
+      "company": "Unstop",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yc0o3SWFLNlpZMFlZVEFZMmJMSFd4aEhRdlBHenFtTnBBVDQwSktFX21NVVVpUHNEQ0xCVTVvWFJQQWVnMWJMS2tjcXRtcU1RN29RZC0xa28zUF9wZE9tRVhTRDZRTlFDRjNsaXctRktHcFBKMVVncVJBdEp4UQ?oc=5",
+      "seen_at": "2026-10-01T10:22:47.787624+00:00"
     }
   }
 }
