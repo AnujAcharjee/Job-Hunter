@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "last_updated": "2026-10-01T10:22:47.787624+00:00",
+  "last_updated": "2026-10-02T10:01:22.015705+00:00",
   "seen_ids": {
     "388b5005cd8449bc1ab1": {
       "title": "Google Tech Internship (Build AI for a billion Indian voices)",
@@ -685,6 +685,420 @@
       "company": "Unstop",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yc0o3SWFLNlpZMFlZVEFZMmJMSFd4aEhRdlBHenFtTnBBVDQwSktFX21NVVVpUHNEQ0xCVTVvWFJQQWVnMWJMS2tjcXRtcU1RN29RZC0xa28zUF9wZE9tRVhTRDZRTlFDRjNsaXctRktHcFBKMVVncVJBdEp4UQ?oc=5",
       "seen_at": "2026-10-01T10:22:47.787624+00:00"
+    },
+    "0a772ec90d25307e8eca": {
+      "title": "Software Engineer Intern",
+      "company": "Electronic Arts (EA)",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-intern-at-electronic-arts-ea-4463017406",
+      "seen_at": "2026-10-02T10:01:22.015514+00:00"
+    },
+    "0c9da43109c7b5434546": {
+      "title": "Software Engineer - Winter Intern",
+      "company": "Rubrik",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-winter-intern-at-rubrik-4464049065",
+      "seen_at": "2026-10-02T10:01:22.015555+00:00"
+    },
+    "b425a8e098c30058e0c0": {
+      "title": "Software Engineer (CPD) - Winter Intern",
+      "company": "Rubrik",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-cpd-winter-intern-at-rubrik-4464058017",
+      "seen_at": "2026-10-02T10:01:22.015559+00:00"
+    },
+    "1de13d2b00eb42c53867": {
+      "title": "Web Development",
+      "company": "META NEX SOLUTIONS",
+      "url": "https://internshala.com/internship/detail/web-development-internship-in-multiple-locations-at-meta-nex-solutions1790853386",
+      "seen_at": "2026-10-02T10:01:22.015562+00:00"
+    },
+    "18900d13f88d2637ade3": {
+      "title": "AI Agent Development",
+      "company": "Design-Pods",
+      "url": "https://internshala.com/internship/detail/ai-agent-development-internship-in-multiple-locations-at-design-pods1790905605",
+      "seen_at": "2026-10-02T10:01:22.015565+00:00"
+    },
+    "cae2e60537fb88feeca1": {
+      "title": "AI Web Development",
+      "company": "InAmigos Foundation",
+      "url": "https://internshala.com/internship/detail/work-from-home-ai-web-development-internship-at-inamigos-foundation1790849466",
+      "seen_at": "2026-10-02T10:01:22.015568+00:00"
+    },
+    "7e6623f24fb8d1625c1b": {
+      "title": "AI & Automation (Bookkeeping Workflows + Internal Tech Stack)",
+      "company": "SecuraEdge Financials",
+      "url": "https://internshala.com/internship/detail/ai-automation-bookkeeping-workflows-internal-tech-stack-internship-in-bangalore-at-securaedge-financials1790850386",
+      "seen_at": "2026-10-02T10:01:22.015570+00:00"
+    },
+    "c4a879ea6c3e07796e94": {
+      "title": "AI Agent Engineer Intern",
+      "company": "Lexsi Labs",
+      "url": "https://in.linkedin.com/jobs/view/ai-agent-engineer-intern-at-lexsi-labs-4472821905",
+      "seen_at": "2026-10-02T10:01:22.015581+00:00"
+    },
+    "c84ae29b80085d03435a": {
+      "title": "Full Stack Development",
+      "company": "Growtern Academy",
+      "url": "https://internshala.com/internship/detail/full-stack-development-internship-in-bhubaneswar-at-growtern-academy1790851625",
+      "seen_at": "2026-10-02T10:01:22.015584+00:00"
+    },
+    "81bfc4abc8265c269c45": {
+      "title": "Full Stack Development",
+      "company": "Pledge India Foundation",
+      "url": "https://internshala.com/internship/detail/work-from-home-part-time-full-stack-development-internship-at-pledge-india-foundation1790770565",
+      "seen_at": "2026-10-02T10:01:22.015587+00:00"
+    },
+    "39b668b8afc62453b926": {
+      "title": "Full Stack Development",
+      "company": "Arham Insurance Brokers Pvt. Ltd.",
+      "url": "https://internshala.com/internship/detail/full-stack-development-internship-in-mumbai-at-arham-insurance-brokers-pvt-ltd1790859308",
+      "seen_at": "2026-10-02T10:01:22.015590+00:00"
+    },
+    "aec3947b55a7aae3fdbb": {
+      "title": "Full Stack Development",
+      "company": "Queens Of Change Foundation",
+      "url": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-queens-of-change-foundation1790855392",
+      "seen_at": "2026-10-02T10:01:22.015592+00:00"
+    },
+    "f53e689d73ef3cc56131": {
+      "title": "Full Stack Development",
+      "company": "Basti Ki Pathshala Foundation",
+      "url": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-basti-ki-pathshala-foundation1790766400",
+      "seen_at": "2026-10-02T10:01:22.015595+00:00"
+    },
+    "736e0fad258b5f5de7f0": {
+      "title": "Full Stack Development",
+      "company": "Boomerang",
+      "url": "https://internshala.com/internship/detail/full-stack-development-internship-in-multiple-locations-at-boomerang1790927621",
+      "seen_at": "2026-10-02T10:01:22.015597+00:00"
+    },
+    "a16aaeef5a05ea0c3625": {
+      "title": "Web Development",
+      "company": "Kidsneuron",
+      "url": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-kidsneuron1790920815",
+      "seen_at": "2026-10-02T10:01:22.015599+00:00"
+    },
+    "0198b785d9e71460ac35": {
+      "title": "Full Stack Development",
+      "company": "Voicedots Infotech",
+      "url": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-voicedots-infotech1790916959",
+      "seen_at": "2026-10-02T10:01:22.015601+00:00"
+    },
+    "fe6abe9ccbc75e0c9531": {
+      "title": "Web Development",
+      "company": "Cloud Back",
+      "url": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-cloud-back1790831507",
+      "seen_at": "2026-10-02T10:01:22.015603+00:00"
+    },
+    "9458c42a854fef32dec2": {
+      "title": "Full Stack Development",
+      "company": "Indara Technologies",
+      "url": "https://internshala.com/internship/detail/full-stack-development-internship-in-mumbai-at-indara-technologies1790763236",
+      "seen_at": "2026-10-02T10:01:22.015605+00:00"
+    },
+    "ce3242a36fc189091ecc": {
+      "title": "Web Development",
+      "company": "Itzfizz Digital",
+      "url": "https://internshala.com/internship/detail/work-from-home-part-time-web-development-internship-at-itzfizz-digital1790594990",
+      "seen_at": "2026-10-02T10:01:22.015607+00:00"
+    },
+    "bd4dbaca749f016b1be1": {
+      "title": "Full Stack Development",
+      "company": "Jobs Territory",
+      "url": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-jobs-territory1790594539",
+      "seen_at": "2026-10-02T10:01:22.015608+00:00"
+    },
+    "a6a7d48d7540e89b573c": {
+      "title": "Software Development",
+      "company": "Basti Ki Pathshala Foundation",
+      "url": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-basti-ki-pathshala-foundation1790593968",
+      "seen_at": "2026-10-02T10:01:22.015610+00:00"
+    },
+    "b6ede5f9f94be712ac1c": {
+      "title": "Full Stack Development",
+      "company": "NayePankh Foundation",
+      "url": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-nayepankh-foundation1790593471",
+      "seen_at": "2026-10-02T10:01:22.015612+00:00"
+    },
+    "52ef634eaf7c075e7b03": {
+      "title": "Full Stack Development",
+      "company": "Finflock Systems Private Limited",
+      "url": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-finflock-systems-private-limited1790589208",
+      "seen_at": "2026-10-02T10:01:22.015614+00:00"
+    },
+    "b294a1092c67f479deee": {
+      "title": "Full Stack Development",
+      "company": "Beamstacks Technologies",
+      "url": "https://internshala.com/internship/detail/full-stack-development-internship-in-manesar-at-beamstacks-technologies1790577259",
+      "seen_at": "2026-10-02T10:01:22.015616+00:00"
+    },
+    "5ee4aab0b1753bcab008": {
+      "title": "Full Stack Development",
+      "company": "Cling Multi Solutions Private Limited",
+      "url": "https://internshala.com/internship/detail/full-stack-development-internship-in-ghaziabad-at-cling-multi-solutions-private-limited1790435691",
+      "seen_at": "2026-10-02T10:01:22.015618+00:00"
+    },
+    "c77bc8605f03d49a2dd1": {
+      "title": "Full Stack Development",
+      "company": "Voicedots Infotech",
+      "url": "https://internshala.com/internship/detail/full-stack-development-internship-in-chennai-at-voicedots-infotech1790388263",
+      "seen_at": "2026-10-02T10:01:22.015620+00:00"
+    },
+    "9a8de7b8776173299dca": {
+      "title": "Full Stack Development",
+      "company": "DeepThought CultureTech Ventures Private Limited",
+      "url": "https://internshala.com/internship/detail/full-stack-development-internship-in-multiple-locations-at-deepthought-culturetech-ventures-private-limited1790386769",
+      "seen_at": "2026-10-02T10:01:22.015622+00:00"
+    },
+    "90e67c674cb818035d46": {
+      "title": "Software Development",
+      "company": "NayePankh Foundation",
+      "url": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-nayepankh-foundation1790341628",
+      "seen_at": "2026-10-02T10:01:22.015624+00:00"
+    },
+    "565cf59babb1828818b0": {
+      "title": "Full Stack Development",
+      "company": "Underpin Services",
+      "url": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-underpin-services1790317030",
+      "seen_at": "2026-10-02T10:01:22.015625+00:00"
+    },
+    "19f7696e7f67be1085c4": {
+      "title": "Web Development",
+      "company": "Tripple One Solutions",
+      "url": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-tripple-one-solutions1790312137",
+      "seen_at": "2026-10-02T10:01:22.015627+00:00"
+    },
+    "c1aa15091de76680dbb7": {
+      "title": "Full Stack Development",
+      "company": "Nikqik Technologies",
+      "url": "https://internshala.com/internship/detail/work-from-home-full-stack-development-internship-at-nikqik-technologies1790308567",
+      "seen_at": "2026-10-02T10:01:22.015628+00:00"
+    },
+    "62ea8b878dd67d2aaac3": {
+      "title": "Web Development",
+      "company": "Codeatrix",
+      "url": "https://internshala.com/internship/detail/work-from-home-web-development-internship-at-codeatrix1790257231",
+      "seen_at": "2026-10-02T10:01:22.015630+00:00"
+    },
+    "f7aa15595cf7d8d4370a": {
+      "title": "Python Development",
+      "company": "Hope Behind Tails Foundation",
+      "url": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-hope-behind-tails-foundation1790765221",
+      "seen_at": "2026-10-02T10:01:22.015632+00:00"
+    },
+    "8dedc68c41920238fce4": {
+      "title": "Python Development",
+      "company": "She Can Foundation",
+      "url": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-she-can-foundation1790859105",
+      "seen_at": "2026-10-02T10:01:22.015634+00:00"
+    },
+    "66322038505d201754b1": {
+      "title": "Python Development",
+      "company": "Pledge India Foundation",
+      "url": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-pledge-india-foundation1790856190",
+      "seen_at": "2026-10-02T10:01:22.015636+00:00"
+    },
+    "f5aa1af5a43b1cc37320": {
+      "title": "Python Development",
+      "company": "Queens Of Change Foundation",
+      "url": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-queens-of-change-foundation1790855409",
+      "seen_at": "2026-10-02T10:01:22.015638+00:00"
+    },
+    "545de6946361dff41fe0": {
+      "title": "Python Development",
+      "company": "NayePankh Foundation",
+      "url": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-nayepankh-foundation1790855234",
+      "seen_at": "2026-10-02T10:01:22.015639+00:00"
+    },
+    "70d9a1d4abcd74ef571d": {
+      "title": "Python Development",
+      "company": "Kidsneuron",
+      "url": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-kidsneuron1790921087",
+      "seen_at": "2026-10-02T10:01:22.015641+00:00"
+    },
+    "93d802db8bcf46068581": {
+      "title": "Backend Development",
+      "company": "Emoolar Technology Private Limited",
+      "url": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-emoolar-technology-private-limited1790917654",
+      "seen_at": "2026-10-02T10:01:22.015643+00:00"
+    },
+    "2c7b64858562574dab52": {
+      "title": "Python Development",
+      "company": "Nineti GmbH (Stuttgart, Germany)",
+      "url": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-nineti-gmbh1790880608",
+      "seen_at": "2026-10-02T10:01:22.015644+00:00"
+    },
+    "5ff92a60fddffdc633bc": {
+      "title": "Software Development",
+      "company": "OBLYTECH INDIA PRIVATE LIMITED",
+      "url": "https://internshala.com/internship/detail/work-from-home-software-development-internship-at-oblytech-india-private-limited1790844625",
+      "seen_at": "2026-10-02T10:01:22.015646+00:00"
+    },
+    "2a9bacfe21916e70456a": {
+      "title": "Python Development",
+      "company": "Cloud Back",
+      "url": "https://internshala.com/internship/detail/work-from-home-python-development-internship-at-cloud-back1790831789",
+      "seen_at": "2026-10-02T10:01:22.015648+00:00"
+    },
+    "4f91f1fce4559efa6956": {
+      "title": "Application Developer",
+      "company": "Wedding Affair",
+      "url": "https://internshala.com/internship/detail/application-developer-internship-in-multiple-locations-at-wedding-affair1790904798",
+      "seen_at": "2026-10-02T10:01:22.015650+00:00"
+    },
+    "0cce789d9338bd86fc11": {
+      "title": "Software Development",
+      "company": "Pledge India Foundation",
+      "url": "https://internshala.com/internship/detail/work-from-home-part-time-software-development-internship-at-pledge-india-foundation1790857039",
+      "seen_at": "2026-10-02T10:01:22.015652+00:00"
+    },
+    "2e9081f4c2eec022ba98": {
+      "title": "API Developer",
+      "company": "JP IT STAFFING LLC",
+      "url": "https://internshala.com/internship/detail/work-from-home-api-developer-internship-at-jp-it-staffing-llc1790856091",
+      "seen_at": "2026-10-02T10:01:22.015654+00:00"
+    },
+    "33750ca6c4798f403007": {
+      "title": "Data Aggregation, Software Development & Web Application Testing",
+      "company": "Michmer Technologies",
+      "url": "https://internshala.com/internship/detail/work-from-home-data-aggregation-software-development-web-application-testing-internship-at-michmer-technologies1790770359",
+      "seen_at": "2026-10-02T10:01:22.015656+00:00"
+    },
+    "b6046507305aefdd2da1": {
+      "title": "AI Agent Development",
+      "company": "LegalSeva.org",
+      "url": "https://internshala.com/internship/detail/work-from-home-ai-agent-development-internship-at-legalsevaorg1790915999",
+      "seen_at": "2026-10-02T10:01:22.015659+00:00"
+    },
+    "d05290ee93d41f76aa46": {
+      "title": "AI Developer",
+      "company": "Brandshark",
+      "url": "https://internshala.com/internship/detail/ai-developer-internship-in-bangalore-at-brandshark1790856146",
+      "seen_at": "2026-10-02T10:01:22.015660+00:00"
+    },
+    "e2774b0a256983f6857f": {
+      "title": "Backend Development",
+      "company": "Hope Behind Tails Foundation",
+      "url": "https://internshala.com/internship/detail/work-from-home-part-time-backend-development-internship-at-hope-behind-tails-foundation1790858153",
+      "seen_at": "2026-10-02T10:01:22.015662+00:00"
+    },
+    "34688dffbaa800e415f4": {
+      "title": "Web Development",
+      "company": "Delhi Angel Network",
+      "url": "https://internshala.com/internship/detail/web-development-internship-in-delhi-at-delhi-angel-network1790849414",
+      "seen_at": "2026-10-02T10:01:22.015664+00:00"
+    },
+    "2ad17a37d67ae441f70f": {
+      "title": "Backend Development",
+      "company": "Queens Of Change Foundation",
+      "url": "https://internshala.com/internship/detail/work-from-home-backend-development-internship-at-queens-of-change-foundation1790764277",
+      "seen_at": "2026-10-02T10:01:22.015665+00:00"
+    },
+    "86a72c7b7214523e0fd4": {
+      "title": "MERN STACK DEVELOPMENT INTERN",
+      "company": "SKOOLLAGE",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-development-intern-at-skoollage-4472883235",
+      "seen_at": "2026-10-02T10:01:22.015667+00:00"
+    },
+    "38c41b2129ca078961c7": {
+      "title": "MERN STACK DEVELOPMENT INTERN",
+      "company": "WebBoost Solutions by UM",
+      "url": "https://in.linkedin.com/jobs/view/mern-stack-development-intern-at-webboost-solutions-by-um-4474703346",
+      "seen_at": "2026-10-02T10:01:22.015669+00:00"
+    },
+    "fcd73c40351ae0353e52": {
+      "title": "Fullstack Intern",
+      "company": "Alaan",
+      "url": "https://in.linkedin.com/jobs/view/fullstack-intern-at-alaan-4472947831",
+      "seen_at": "2026-10-02T10:01:22.015671+00:00"
+    },
+    "071b2f4cf621a71224e7": {
+      "title": "Full Stack Engineer",
+      "company": "Zetheta Algorithms Private Limited",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-engineer-at-zetheta-algorithms-private-limited-4472516133",
+      "seen_at": "2026-10-02T10:01:22.015673+00:00"
+    },
+    "dd26fe89611a2e1a01da": {
+      "title": "Software Engineer Intern",
+      "company": "CausalFunnel",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-intern-at-causalfunnel-4471331070",
+      "seen_at": "2026-10-02T10:01:22.015675+00:00"
+    },
+    "163fa5eb26835ee19dab": {
+      "title": "FULLSTACK WEB DEVELOPMENT INTERN",
+      "company": "Vortenza Systems",
+      "url": "https://in.linkedin.com/jobs/view/fullstack-web-development-intern-at-vortenza-systems-4474710132",
+      "seen_at": "2026-10-02T10:01:22.015676+00:00"
+    },
+    "0742ea1c01f680aabbc0": {
+      "title": "Full Stack Web Developer",
+      "company": "internmo",
+      "url": "https://in.linkedin.com/jobs/view/full-stack-web-developer-at-internmo-4472876459",
+      "seen_at": "2026-10-02T10:01:22.015687+00:00"
+    },
+    "d4f69f3ebde88fe716f8": {
+      "title": "Python Developer Intern | Entry Level | Fresher | Python, SQL, Git | Remote",
+      "company": "MediNex Workforce",
+      "url": "https://in.linkedin.com/jobs/view/python-developer-intern-entry-level-fresher-python-sql-git-remote-at-medinex-workforce-4472543536",
+      "seen_at": "2026-10-02T10:01:22.015689+00:00"
+    },
+    "7c86084dd95123cc8e34": {
+      "title": "PYTHON DEVELOPMENT INTERN",
+      "company": "Unified Mentor Private Limited",
+      "url": "https://in.linkedin.com/jobs/view/python-development-intern-at-unified-mentor-private-limited-4472549242",
+      "seen_at": "2026-10-02T10:01:22.015690+00:00"
+    },
+    "497281a2e46a205709ca": {
+      "title": "PYTHON DEVELOPMENT INTERN",
+      "company": "Zenithbyte",
+      "url": "https://in.linkedin.com/jobs/view/python-development-intern-at-zenithbyte-4474713706",
+      "seen_at": "2026-10-02T10:01:22.015692+00:00"
+    },
+    "c2cf4ac4327b8ad0be49": {
+      "title": "Python Developer Intern | Entry-Level | Remote | Freshers Welcome",
+      "company": "Skillzenloop",
+      "url": "https://in.linkedin.com/jobs/view/python-developer-intern-entry-level-remote-freshers-welcome-at-skillzenloop-4472933870",
+      "seen_at": "2026-10-02T10:01:22.015694+00:00"
+    },
+    "97b026c7f4605cc8ac0f": {
+      "title": "Software Engineer Intern",
+      "company": "Oculon.AI",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-intern-at-oculon-ai-4472684856",
+      "seen_at": "2026-10-02T10:01:22.015695+00:00"
+    },
+    "959598ce2a7dd0e7500e": {
+      "title": "Backend Developer Intern | APIs & Server-Side Development | Remote | Freshers Welcome",
+      "company": "Skillzenloop",
+      "url": "https://in.linkedin.com/jobs/view/backend-developer-intern-apis-server-side-development-remote-freshers-welcome-at-skillzenloop-4472948229",
+      "seen_at": "2026-10-02T10:01:22.015697+00:00"
+    },
+    "af1cfb64847b139e6c72": {
+      "title": "Backend Developer Intern",
+      "company": "GravityMitra Technologies",
+      "url": "https://in.linkedin.com/jobs/view/backend-developer-intern-at-gravitymitra-technologies-4472927310",
+      "seen_at": "2026-10-02T10:01:22.015698+00:00"
+    },
+    "d6bc8b7890453ac71231": {
+      "title": "Software Engineer Intern",
+      "company": "WhilterAI",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-intern-at-whilterai-4472879350",
+      "seen_at": "2026-10-02T10:01:22.015700+00:00"
+    },
+    "528ace6f243c0d46a7df": {
+      "title": "Software Developer Intern",
+      "company": "Durozen Technologies",
+      "url": "https://in.linkedin.com/jobs/view/software-developer-intern-at-durozen-technologies-4472100949",
+      "seen_at": "2026-10-02T10:01:22.015701+00:00"
+    },
+    "afecd26defdd700de874": {
+      "title": "Software Engineer Intern",
+      "company": "Blacklitt Technologies Pvt Ltd",
+      "url": "https://in.linkedin.com/jobs/view/software-engineer-intern-at-blacklitt-technologies-pvt-ltd-4472544044",
+      "seen_at": "2026-10-02T10:01:22.015703+00:00"
+    },
+    "5f1be43480265997bd67": {
+      "title": "SQL Developer Intern | Database & SQL | Entry-Level | Remote | Freshers Welcome",
+      "company": "Skillzenloop",
+      "url": "https://in.linkedin.com/jobs/view/sql-developer-intern-database-sql-entry-level-remote-freshers-welcome-at-skillzenloop-4472949245",
+      "seen_at": "2026-10-02T10:01:22.015705+00:00"
     }
   }
 }
